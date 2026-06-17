@@ -13,7 +13,9 @@
       "side slit",
       "halterneck"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "晚礼服, 挂脖, 侧开叉, 盆骨帘, groin, 暴露服饰, 光腿, 水晶鞋",
+    "name_zh": "晚礼服 & 挂脖"
   },
   {
     "id": "1741118595154",
@@ -28,7 +30,9 @@
       "gloves",
       "high heels"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "领巾, 可拆卸袖套, 荷叶边袖, 荷叶边, 白色连衣裙, 白色手套, 白色大腿袜, 高跟鞋",
+    "name_zh": "领巾 & 可拆卸袖套"
   },
   {
     "id": "1741118598987",
@@ -42,7 +46,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "裸臂, 露肩, 晚礼服, 银色连衣裙, 侧乳, 低腰内裤, 侧绑带内裤, 绑带高跟鞋, 凉鞋, silver footwear",
+    "name_zh": "裸臂 & 露肩"
   },
   {
     "id": "1741118602407",
@@ -56,7 +62,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色外套, fur-trimmed coat, 毛边, jewelry necklace, 黑色连衣裙, 紧身连衣裙",
+    "name_zh": "黑色外套 & Fur-Trimmed Coat"
   },
   {
     "id": "1741118605709",
@@ -70,7 +78,9 @@
       "pantyhose",
       "gloves"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "肘部手套, 黑色手套, 黑色紧身连体衣, 露肩, 荷叶边, 黑色连衣裙, 白色连裤袜",
+    "name_zh": "肘部手套 & 黑色手套"
   },
   {
     "id": "1741118609657",
@@ -88,7 +98,9 @@
       "sleeveless",
       "bare legs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "裸臂, 露肩, 光腿, 露背装, 盆骨帘, 晚礼服, 黑色连衣裙, 无袖, thigh strap, 黑色半指手套, blue dress flower, 黑色高跟鞋, blue shoe soles",
+    "name_zh": "裸臂 & 露肩"
   },
   {
     "id": "1741118613047",
@@ -105,7 +117,9 @@
       "side slit",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色项圈, 黑色肘部手套, 淡紫色大腿袜, black elastic band, 侧开叉, 露肩, criss-cross halter, purple frilled dress, 露乳沟, 深V领, aqua feather hair ornament, 无袖, 白色羽毛披肩, 黑色细高跟鞋",
+    "name_zh": "黑色项圈 & 黑色肘部手套"
   },
   {
     "id": "1741123772698",
@@ -118,7 +132,9 @@
     "traits": [
       "side slit"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cocktail dress, 黑色连衣裙, 晚礼服, 侧开叉, hip vent, 蓝色披风, single bare shoulder, arm strap, 凉鞋, 绑带高跟鞋, 黑色细高跟鞋",
+    "name_zh": "Cocktail Dress & 黑色连衣裙"
   },
   {
     "id": "1741123776445",
@@ -131,7 +147,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "围巾, 软帽, 哥特风, 黑色斗篷, 黑色连衣裙, 黑色大腿袜, 黑色玛丽珍鞋",
+    "name_zh": "围巾 & 软帽"
   },
   {
     "id": "1741123779777",
@@ -148,7 +166,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "透视, 黑色内裤, 黑色大腿袜, 黑色玛丽珍鞋, 黑色连衣裙, 可拆卸袖套, long sleeves, 黑色丝带/蝴蝶结",
+    "name_zh": "透视 & 黑色内裤"
   },
   {
     "id": "1741123782852",
@@ -165,7 +185,9 @@
       "high heels",
       "backless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "beret, 连帽衫, puririn, bridal gauntlets, clothing cutout, 可拆卸袖套, earrings, 连裤袜, 露背装, 高跟鞋, 水晶鞋, frilled dress, waist cape, 白色连衣裙, cross-laced corset",
+    "name_zh": "Beret & 连帽衫"
   },
   {
     "id": "1741123786372",
@@ -182,7 +204,9 @@
       "gloves",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "flower, hat, 红色连衣裙, red hat, 露肩, layered dress, single thighhigh, red rose, 黑色手套, fishnet gloves, asymmetrical gloves, sleeveless dress, black bow, 黑色丝带/蝴蝶结, 黑色大腿袜, 蕾丝, lace trim, frilled dress, single glove",
+    "name_zh": "Flower & Hat"
   },
   {
     "id": "1741123789587",
@@ -193,7 +217,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "funeral dress, funeral veil, black veil, hat feather, black hat, black shawl",
+    "name_zh": "Funeral Dress & Funeral Veil"
   },
   {
     "id": "1741123792884",
@@ -206,7 +232,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black footwear, hair flower, frilled choker, frilled dress, frilled hairband, 荷叶边袖, lolita fashion, long sleeves, 白色连裤袜",
+    "name_zh": "Black Footwear & Hair Flower"
   },
   {
     "id": "1741125272701",
@@ -224,7 +252,9 @@
       "tie",
       "miniskirt"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "see-through crop top, cleavage cutout, shoulder cutout, underboob, 白色大腿袜, short sleeves, 迷你裙, navel, garter straps, open dress, no panties",
+    "name_zh": "See-Through Crop Top & Cleavage Cutout"
   },
   {
     "id": "1741125276646",
@@ -240,7 +270,9 @@
       "tie",
       "halterneck"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white bodycon, micro bodycon, 深V领, see-through clothes, tight dress, 项圈, 挂脖, spaghetti strap, side-tie, bridal gauntlets, 光腿, thigh strap, navel cutout, handbag",
+    "name_zh": "White Bodycon & Micro Bodycon"
   },
   {
     "id": "1741125280444",
@@ -256,7 +288,9 @@
       "gloves",
       "high heels"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "wedding dress, 白色手套, 白色项圈, bridal gauntlets, clothing cutout, 可拆卸袖套, earrings, groin, 高跟鞋, highleg leotard, thigh boot, 大腿袜, waist cape",
+    "name_zh": "Wedding Dress & 白色手套"
   },
   {
     "id": "1741125284465",
@@ -272,7 +306,9 @@
       "tie",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "no panties, sideless outfit, covered navel, 无袖, 白色连衣裙, 盆骨帘, 露肩, 侧乳, groin, armlet, bracelet, gold trim",
+    "name_zh": "No Panties & Sideless Outfit"
   },
   {
     "id": "1741125288033",
@@ -287,7 +323,9 @@
       "pantyhose",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露乳沟, underboob, no panties, breasts curtain, 白色连裤袜, between breasts",
+    "name_zh": "露乳沟 & Underboob"
   },
   {
     "id": "1741125291744",
@@ -304,7 +342,9 @@
       "latex",
       "gloves"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露乳沟, sling bikini top, o-ring top, o-ring thigh strap, o-ring dress, 乳胶, skindentation, clothing cutout, 暴露服饰, shiny clothes, microdress, latex dress, waist cutout, navel, shoulder, bridal gauntlets, 肘部手套, short dress, 大腿袜",
+    "name_zh": "露乳沟 & Sling Bikini Top"
   },
   {
     "id": "1741125296440",
@@ -319,7 +359,9 @@
       "pantyhose",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露乳沟, underboob, white breasts curtain, white crotchless pantyhose, 白色盆骨帘, long sleeves, no panties, no bra",
+    "name_zh": "露乳沟 & Underboob"
   },
   {
     "id": "1741125476873",
@@ -333,7 +375,9 @@
     "traits": [
       "ribbon"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "two-tone dress, 黑色连衣裙, 白色连衣裙, gold trim, bare shoulder, strapless, see-through shawl, chinese clothes, 汉服, floral print hanfu, 丝带/蝴蝶结, tassel, white bow",
+    "name_zh": "Two-Tone Dress & 黑色连衣裙"
   },
   {
     "id": "1741125480367",
@@ -347,7 +391,9 @@
       "pantyhose",
       "gloves"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "center frills, frilled skirt, 荷叶边, fur-trimmed capelet, 毛边, hair bow, red bow, long sleeves, red capelet, red corset, 红色手套, red hat, ribbed pantyhose, 黑色连裤袜, white bow, white shirt, 白色半身裙",
+    "name_zh": "Center Frills & Frilled Skirt"
   },
   {
     "id": "1741125483894",
@@ -361,7 +407,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "紧身连衣裙, 灰色连衣裙, 露乳沟, long sleeves, hand bag, collarbone, pencil dress, medium dress",
+    "name_zh": "紧身连衣裙 & 灰色连衣裙"
   },
   {
     "id": "1741125487674",
@@ -375,7 +423,9 @@
       "bare legs",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "光腿, 露肩, brooch, red cabbie hat, 可拆卸袖套, red high-waist skirt, long sleeves, sleeveless shirt, white shirt, red boot, suspenders",
+    "name_zh": "光腿 & 露肩"
   },
   {
     "id": "1741125490769",
@@ -389,7 +439,9 @@
     "traits": [
       "glasses"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色项圈, thigh strap, gradient glasses, off shoulder coat, black long negligee, black frilled dress, black beret, short jeans, clutch sneaker",
+    "name_zh": "黑色项圈 & Thigh Strap"
   },
   {
     "id": "1741125494191",
@@ -403,7 +455,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "collared dress, grey shirt, ribbed sweater, 灰色毛衣",
+    "name_zh": "Collared Dress & Grey Shirt"
   },
   {
     "id": "1741125497282",
@@ -415,7 +469,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "off shoulder coat, dress shirt, beret, 连帽衫, asymmetrical legwear, 黑色项圈, bridal gauntlets, clothing cutout, 可拆卸袖套",
+    "name_zh": "Off Shoulder Coat & Dress Shirt"
   },
   {
     "id": "1741125529526",
@@ -428,7 +484,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色手套, partially fingerless gloves, blue neckerchief, eyewear on head, blue-framed eyewear, purple hat, white shirt, open jacket, 紫色夹克, long sleeves, striped scarf, 白色袜子",
+    "name_zh": "黑色手套 & Partially Fingerless Gloves"
   },
   {
     "id": "1741125532962",
@@ -439,7 +497,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "蓝色夹克, white shirt, bike shorts, open jacket, 白色袜子, sneakers, fanny pack on shoulder",
+    "name_zh": "蓝色夹克 & White Shirt"
   },
   {
     "id": "1741125535970",
@@ -453,7 +513,9 @@
     "traits": [
       "miniskirt"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "japanese kimono style outfit, butterfly bow hairpin, ruffled brown blouse, layered black miniskirt, chocolate brown capelet, elegant capelet",
+    "name_zh": "Japanese Kimono Style Outfit & Butterfly Bow Hairpin"
   },
   {
     "id": "1741125539064",
@@ -467,7 +529,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色大腿袜, hair flower, 黑色半身裙, white shirt, puffy sleeves, long sleeves, center frills, high-waist skirt, black bow, 百褶裙, bridal gauntlets, frilled shirt, bowtie",
+    "name_zh": "黑色大腿袜 & Hair Flower"
   },
   {
     "id": "1741125542840",
@@ -481,7 +545,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "off shoulder coat, dress shirt, beret, 连帽衫, asymmetrical legwear, 项圈, bridal gauntlets, clothing cutout, 可拆卸袖套, 连裤袜, blue neckerchief",
+    "name_zh": "Off Shoulder Coat & Dress Shirt"
   },
   {
     "id": "1741125546512",
@@ -492,7 +558,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black baseball cap, 黑色毛衣, 蓝色夹克, hood down, open jacket, 粉色半身裙, 百褶裙, ribbed sweater, brown shoes",
+    "name_zh": "Black Baseball Cap & 黑色毛衣"
   },
   {
     "id": "1741125549788",
@@ -508,7 +576,9 @@
       "glasses",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "眼镜, 项链, blue stripe jacket, white frills dress, collarbone, long sleeves, lady's watch",
+    "name_zh": "眼镜 & 项链"
   },
   {
     "id": "1741125639150",
@@ -522,7 +592,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "star earring, black beret, hairclip, black trench coat, (sweater dress:1.1), necktie",
+    "name_zh": "Star Earring & Black Beret"
   },
   {
     "id": "1741125642813",
@@ -537,7 +609,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "(fedora:1.1), duffel coat, 针织开衫, 半身裙, thigh boots, belt, 手套, brooch, bangle, criss-cross halter, 黑色连裤袜, fanny pack",
+    "name_zh": "(Fedora:1.1) & Duffel Coat"
   },
   {
     "id": "1741125645730",
@@ -550,7 +624,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cyb dress, 粉色连衣裙, pom pom \\(clothes\\), red bow, long sleeves, puffy sleeves, hat, 白色大腿袜, pink shoes",
+    "name_zh": "Cyb Dress & 粉色连衣裙"
   },
   {
     "id": "1741125649346",
@@ -564,7 +640,9 @@
       "pantyhose",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "long sleeves, 荷叶边, plaid dress, white bowtie, 灰色连衣裙, white bow, 黑色连裤袜, 玛丽珍鞋",
+    "name_zh": "Long Sleeves & 荷叶边"
   },
   {
     "id": "1741125652372",
@@ -580,7 +658,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "victorian fashionaqua skirt, round monocle, 领巾, vest, belt, military uniform, 靴子, 黑色外套, coat on shoulders, collared white shirt, 白色手套, long skirt, long sleeves",
+    "name_zh": "Victorian Fashionaqua Skirt & Round Monocle"
   },
   {
     "id": "1741125655414",
@@ -600,7 +680,9 @@
       "gloves",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cleavage slip, 黑色连衣裙, 黑色手套, sleeveless dress, choke, black bra, 荷叶边, red cropped jacket, red sunglasses, round eyewear, flower pattern bodystocking, 丝带/蝴蝶结, laced dress",
+    "name_zh": "Cleavage Slip & 黑色连衣裙"
   },
   {
     "id": "1741125658418",
@@ -614,7 +696,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, 黑色半身裙, brown pantyhose, 露乳沟, crop top, fishnet pantyhose, handbag, long sleeves, navel",
+    "name_zh": "露肩 & 黑色半身裙"
   },
   {
     "id": "1741125691585",
@@ -628,7 +712,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "sleeves past wrists, oversized sweater, bare shoulder, front-tie top, crop top overhang, 低腰内裤, criss-cross halter, 半身裙, 可拆卸袖套",
+    "name_zh": "Sleeves Past Wrists & Oversized Sweater"
   },
   {
     "id": "1741125695515",
@@ -644,7 +730,9 @@
       "gloves",
       "ribbon"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cat girl, asymmetrical legwear, single thighhigh, black bow, 黑色丝带/蝴蝶结, bow, chef hat, frilled apron, frilled dress, hair bow, hair ribbon, oven mitts, plaid, plate, puffy short sleeves, shoes, tail ornament, vertical-striped clothes, 白色连衣裙, 白色手套, white hat, 黄色围裙, yellow footwear, 黄色大腿袜",
+    "name_zh": "Cat Girl & Asymmetrical Legwear"
   },
   {
     "id": "1741125698522",
@@ -657,7 +745,9 @@
     "traits": [
       "boots"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "backpack, 连帽衫, long sleeves, sleeves past wrists, brown boots, hair bow, hairclip, drawstring, hood down, plaid, 毛衣, 红色袜子, pom pom \\(clothes\\)",
+    "name_zh": "Backpack & 连帽衫"
   },
   {
     "id": "1741125702056",
@@ -673,7 +763,9 @@
       "miniskirt",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, purple shirt, sleeveless shirt, vertical-striped shirt, puffy long sleeves, see-through sleeves, sleeves past elbows, 白色半身裙, 迷你裙, see-through skirt, leg ribbon, 紫色丝带/蝴蝶结, vertical-striped bow, blue bow, buttons",
+    "name_zh": "露肩 & Purple Shirt"
   },
   {
     "id": "1741125705326",
@@ -689,7 +781,9 @@
       "miniskirt",
       "short shorts"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "midriff, frilled shirt, black shirt, crop top, navel, 粉色半身裙, open jacket, thigh strap, pink shorts, belt, 迷你裙, 百褶裙, 黑色大腿袜, short shorts, pink shirt, hairband, spaghetti strap, 粉色夹克, 项链, 粉色项圈, handbag",
+    "name_zh": "Midriff & Frilled Shirt"
   },
   {
     "id": "1741125708986",
@@ -708,7 +802,9 @@
       "ribbon",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black hairband, no bra, black shirt, hair ribbon, no panties, short sleeves, aqua skirt, 光腿, collarbone, tied shirt, 盆骨帘, open shirt, blue bow, shoulder bag, hairclip, frilled dress, 蓝色丝带/蝴蝶结",
+    "name_zh": "Black Hairband & No Bra"
   },
   {
     "id": "1741125712650",
@@ -724,7 +820,9 @@
       "pantyhose",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black beret, black lolita-style dress, 荷叶边, red bow tie, black suit coat, 黑色连裤袜, black shoes, holding a cane, carrying large black suitcase",
+    "name_zh": "Black Beret & Black Lolita-Style Dress"
   },
   {
     "id": "1741125745060",
@@ -737,7 +835,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white front-tie top, beige jeans, 凉鞋, unzipped, 白色袜子",
+    "name_zh": "White Front-Tie Top & Beige Jeans"
   },
   {
     "id": "1741125748330",
@@ -751,7 +851,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "bustier, 透视, shorts, shoulder bag, white sun hat, wide brimhorns",
+    "name_zh": "Bustier & 透视"
   },
   {
     "id": "1741125751742",
@@ -765,7 +867,9 @@
     "traits": [
       "short shorts"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "barefoot, 比基尼, 项圈, cropped jacket, visor cap, torn short shorts, swimming ring",
+    "name_zh": "Barefoot & 比基尼"
   },
   {
     "id": "1741125755328",
@@ -781,7 +885,9 @@
     "traits": [
       "ribbon"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "barefoot, off shoulder, thigh strap, white one-piece swimsuit, see-through blue jacket, open jacket, 白色丝带/蝴蝶结, long sleeves",
+    "name_zh": "Barefoot & Off Shoulder"
   },
   {
     "id": "1741125758952",
@@ -797,7 +903,9 @@
       "short shorts",
       "off-shoulder"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, 露乳沟, midriff, black hairband, denim, 项圈, blue shorts, short shorts, crop top, off-shoulder shirt, bracelet, earrings, 珠宝, o-ring, thigh strap",
+    "name_zh": "露肩 & 露乳沟"
   },
   {
     "id": "1741125761956",
@@ -808,7 +916,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white sun hat, 白色夹克, yellow shirt, jacket on shoulders, handbag, 蓝色半身裙, hat bow, white bow, watch",
+    "name_zh": "White Sun Hat & 白色夹克"
   },
   {
     "id": "1741125765611",
@@ -823,7 +933,9 @@
       "glasses",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, 黑色比基尼, bracelet, chain, 露乳沟, collarbone, earrings, eyewear on head, 珠宝, 透视, sunglasses, visor cap",
+    "name_zh": "露肩 & 黑色比基尼"
   },
   {
     "id": "1741125814779",
@@ -838,7 +950,9 @@
       "glasses",
       "off-shoulder"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色项圈, thigh strap, gradient glasses, off-shoulder jacket, black long pajamas, black ruffled dress, black beret, short jeans, clutch sneakers",
+    "name_zh": "黑色项圈 & Thigh Strap"
   },
   {
     "id": "1741125818391",
@@ -854,7 +968,9 @@
       "glasses",
       "short shorts"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "glass sandals, ankle strap, sunglasses on head, purple-tinted eyewear, front-tie top, platform sandals, see-through sleeves, side cutout, white short shorts, earrings",
+    "name_zh": "Glass Sandals & Ankle Strap"
   },
   {
     "id": "1741125821887",
@@ -870,7 +986,9 @@
       "lace",
       "halterneck"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "bandeau, 露肩, bikini under clothes, 比基尼, chain, cross-laced clothes, denim, 挂脖, highleg bikini, denim shorts, navel, 透视",
+    "name_zh": "Bandeau & 露肩"
   },
   {
     "id": "1741125825605",
@@ -885,7 +1003,9 @@
       "side slit",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "collarbone, 蓝色连衣裙, long see-through sleeves, long dress, 侧开叉",
+    "name_zh": "Collarbone & 蓝色连衣裙"
   },
   {
     "id": "1741125828855",
@@ -902,7 +1022,9 @@
       "short shorts",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, 黑色手套, earrings, fingerless gloves, highleg, high-waist pantyhose, 黑色连裤袜, o-ring, 紫色比基尼, skindentation, stomach, string bikini, thigh strap, underboob, visor cap, short shorts, 可拆卸袖套, detached collar",
+    "name_zh": "露肩 & 黑色手套"
   },
   {
     "id": "1741125831902",
@@ -916,7 +1038,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "armlet, criss-cross halter, 绿色比基尼, groin, hair flower, highleg bikini, hoop earrings, long fingernails, navel, 项链, pink-tinted eyewear, white-framed eyewear",
+    "name_zh": "Armlet & Criss-Cross Halter"
   },
   {
     "id": "1741125835439",
@@ -930,7 +1054,9 @@
       "glasses",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "turtleneck sweater, denim shorts, 无袖, lowleg shorts, micro shorts, 眼镜, midriff, underboob, 侧乳, aran sweater, toeless footwear, high heel sandals",
+    "name_zh": "Turtleneck Sweater & Denim Shorts"
   },
   {
     "id": "1741125863629",
@@ -946,7 +1072,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "beanie, fur-trimmed jacket, 黑色连裤袜, black bag, white necktie, vest, 百褶裙, 靴子, 毛边, 手套, 围巾, long sleeves",
+    "name_zh": "Beanie & Fur-Trimmed Jacket"
   },
   {
     "id": "1741125867676",
@@ -958,7 +1086,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white woolen sweater, aqua-white outwear jacket, white hat, long woolen sleeves, 可拆卸袖套, 连衣裙, long woolen white leg warmers",
+    "name_zh": "White Woolen Sweater & Aqua-White Outwear Jacket"
   },
   {
     "id": "1741125871005",
@@ -969,7 +1099,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "goggles on head, grey hooded coat, backpack, fur hood, black pants, hood up",
+    "name_zh": "Goggles On Head & Grey Hooded Coat"
   },
   {
     "id": "1741125874507",
@@ -982,7 +1114,9 @@
     "traits": [
       "ribbon"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black beret, black pants, 黑色丝带/蝴蝶结, hair ribbon, quilted jacket, 蓝色夹克, sleeves past wrists, orange scarf",
+    "name_zh": "Black Beret & Black Pants"
   },
   {
     "id": "1741125877882",
@@ -998,7 +1132,9 @@
       "apron",
       "ribbon"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cabbie hat, hat ribbon, long dress, ribbed pantyhose, fur-trimmed coat, 围裙",
+    "name_zh": "Cabbie Hat & Hat Ribbon"
   },
   {
     "id": "1741125881056",
@@ -1014,7 +1150,9 @@
       "boots",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "fur-trimmed heel boots, bare shoulder, 裸臂, 无袖, fur collar, black fur trimmed gloves, (fur-trimmed crop top vest:1.1), midriff, (fur-trimmed mini skirt:1.1)",
+    "name_zh": "Fur-Trimmed Heel Boots & Bare Shoulder"
   },
   {
     "id": "1741125884704",
@@ -1029,7 +1167,9 @@
       "miniskirt",
       "boots"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white footwear, 白色大腿袜, 白色半身裙, sleeves past wrists, zettai ryouiki, fur-trimmed boots, white bow, knee boots, 外套, 迷你裙, 荷叶边",
+    "name_zh": "White Footwear & 白色大腿袜"
   },
   {
     "id": "1741126076669",
@@ -1044,7 +1184,9 @@
       "lace",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cropped sweater, cross-laced pants, ribbed sweater, underboob, no panties",
+    "name_zh": "Cropped Sweater & Cross-Laced Pants"
   },
   {
     "id": "1741126080384",
@@ -1061,7 +1203,9 @@
       "miniskirt",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, purple shirt, sleeveless shirt, vertical-striped shirt, puffy long sleeves, see-through sleeves, sleeves past elbows, 白色半身裙, 迷你裙, see-through skirt, purple leg ribbon, buttons, 紫色大腿袜, see-through thighhighs",
+    "name_zh": "露肩 & Purple Shirt"
   },
   {
     "id": "1741126083696",
@@ -1075,7 +1219,9 @@
     "traits": [
       "kneehighs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black shirt, long sleeves, 白色连帽衫, 白色夹克, 蓝色连衣裙, open hoodie, headphones, white kneehighs, blue sneakers",
+    "name_zh": "Black Shirt & Long Sleeves"
   },
   {
     "id": "1741126087095",
@@ -1089,7 +1235,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black shoes, 黑色手套, 黑色半身裙, dated, fingerless gloves, jacket around waist, single glove, single thighhigh, striped thighhighs, watch",
+    "name_zh": "Black Shoes & 黑色手套"
   },
   {
     "id": "1741126090647",
@@ -1103,7 +1251,9 @@
       "pantyhose",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "torn pantyhose, midriff, pendant, collarbone, 黑色连裤袜, crop top, white shirt, brown overcoat, denim shorts, open coat, blue shorts, long sleeves, straw hat",
+    "name_zh": "Torn Pantyhose & Midriff"
   },
   {
     "id": "1741126094187",
@@ -1116,7 +1266,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black leg warmers, chain necklace, 毛衣, 百褶裙, 黑色半身裙, heart choker, 黑色项圈, lace-trimmed choker, thigh strap, lace trim, torn clothes",
+    "name_zh": "Black Leg Warmers & Chain Necklace"
   },
   {
     "id": "1741126097518",
@@ -1128,7 +1280,9 @@
       "lace",
       "glasses"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "red and black costume, red and black gothic lolita, half square glasses, earrings, 项链",
+    "name_zh": "Red And Black Costume & Red And Black Gothic Lolita"
   },
   {
     "id": "1741126137662",
@@ -1148,7 +1302,9 @@
       "glasses",
       "high heels"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black half-frame glasses, eye necklace, black leather onesie, waisted dress, (silver leg chain, pencil skirt, white mini leather coat:1.15), bracelet, (garter belt, 蓝色大腿袜, roman style high heels:1.1)",
+    "name_zh": "Black Half-Frame Glasses & Eye Necklace"
   },
   {
     "id": "1741126141636",
@@ -1166,7 +1322,9 @@
       "gloves",
       "latex"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "白色夹克, short dress, suspender dress, red-tinted eyewear, garter straps, hood down, wide jacket, cropped jacket, earrings, emblem, 项链, open jacket, fingerless gloves, 丝带/蝴蝶结, covered navel, 露乳沟, latex dress",
+    "name_zh": "白色夹克 & Short Dress"
   },
   {
     "id": "1741126145044",
@@ -1182,7 +1340,9 @@
       "kneehighs",
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "headphones, underboob, thigh strap, 白色袜子, no bra, white sneakers, open clothes, see-through skirt, 夹克, kneehighs, long sleeves, respirator, crop top, 白色低腰内裤",
+    "name_zh": "Headphones & Underboob"
   },
   {
     "id": "1741126148523",
@@ -1198,7 +1358,9 @@
       "off-shoulder",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black bow, black bowtie, collared shirt, 荷叶边袖, hair bow, hair ribbon, off-shoulder shirt, pink bow, pink gemstone, 粉色丝带/蝴蝶结, pink shirt, striped bow, striped bowtie, striped clothes, two-tone bow",
+    "name_zh": "Black Bow & Black Bowtie"
   },
   {
     "id": "1741126152137",
@@ -1212,7 +1374,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "黑色手套, black high-waist skirt, black footwear, white shirt, 肘部手套, underbust, 荷叶边, peaked cap, thigh boots, thigh strap, black corset, highleg leotard, bondage outfit",
+    "name_zh": "黑色手套 & Black High-Waist Skirt"
   },
   {
     "id": "1741126155822",
@@ -1227,7 +1391,9 @@
       "short shorts",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "belt, belt buckle, bike shorts, short shorts, white shorts, clothes writing, zipper, high collar, long sleeves, midriff, navel, 白色大腿袜",
+    "name_zh": "Belt & Belt Buckle"
   },
   {
     "id": "1741126159407",
@@ -1239,7 +1405,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "frilled shirt, frilled shorts, 荷叶边, hood up, hooded jacket, long sleeves, open jacket, 粉色夹克, pink shorts, rabbit hood, scrunchie, white shirt, sleepwear, 露乳沟",
+    "name_zh": "Frilled Shirt & Frilled Shorts"
   },
   {
     "id": "1741126202684",
@@ -1256,7 +1424,9 @@
       "lace",
       "short shorts"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black shorts, short shorts, bra visible through clothes, 透视, crop top, camisole, lace-trimmed bra, lace trim, 裸臂, 光腿, 露肩, 露乳沟, midriff, navel",
+    "name_zh": "Black Shorts & Short Shorts"
   },
   {
     "id": "1741126206559",
@@ -1270,7 +1440,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black bra, 黑色内裤, long sleeves, off shoulder, 内裤, white shirt, oversized shirt",
+    "name_zh": "Black Bra & 黑色内裤"
   },
   {
     "id": "1741126209941",
@@ -1284,7 +1456,9 @@
       "thighhighs",
       "short shorts"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "蓝色夹克, long sleeves, lolita hairband, short shorts, frilled thighhighs, 白色大腿袜, open jacket, open clothes",
+    "name_zh": "蓝色夹克 & Long Sleeves"
   },
   {
     "id": "1741126213229",
@@ -1295,7 +1469,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "brown sweater, headphones, lab coat, open coat, ribbed sweater, turtleneck sweater, 白色外套, sleeves past wrists",
+    "name_zh": "Brown Sweater & Headphones"
   },
   {
     "id": "1741126216438",
@@ -1309,7 +1485,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "blue shirt, 蓝色半身裙, yellow hat, school uniform, 白色连裤袜, school bag",
+    "name_zh": "Blue Shirt & 蓝色半身裙"
   },
   {
     "id": "1741126220357",
@@ -1324,7 +1502,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "backpack, randoseru, bottomless, red bag, 白色大腿袜, school uniform, serafuku, long sleeves, white shirt, sailor hat, sailor shirt, white headwear, pink neckerchief, red sailor collar, pink sailor collar",
+    "name_zh": "Backpack & Randoseru"
   },
   {
     "id": "1741126224125",
@@ -1338,7 +1518,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "kindergarten uniform, 深蓝色连衣裙, long sleeves, yellow cloche hat, shoulder bag, yellow bag, collared dress, name tag, cuffs",
+    "name_zh": "Kindergarten Uniform & 深蓝色连衣裙"
   },
   {
     "id": "1741126270296",
@@ -1352,7 +1534,9 @@
     "traits": [
       "kneehighs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "school uniform, loafers, long sleeves, holding, black legwear, 夹克, plaid skirt, plaid, kneehighs",
+    "name_zh": "School Uniform & Loafers"
   },
   {
     "id": "1741126273720",
@@ -1367,7 +1551,9 @@
       "kneehighs",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "灰色半身裙, long sleeves, 百褶裙, school uniform, yellow sweater vest, white collared shirt, black kneehighs, loafers",
+    "name_zh": "灰色半身裙 & Long Sleeves"
   },
   {
     "id": "1741126276854",
@@ -1383,7 +1569,9 @@
       "miniskirt",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "long sleeves, white shirt, collared shirt, black vest, buttons, 黑色连衣裙, 迷你裙, black kneehighs, loafers",
+    "name_zh": "Long Sleeves & White Shirt"
   },
   {
     "id": "1741126280708",
@@ -1398,7 +1586,9 @@
       "kneehighs",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "white serafuku, blue sailor collar, 蓝色半身裙, white shirt, long sleeves, 百褶裙, red neckerchief, black kneehighs, loafers",
+    "name_zh": "White Serafuku & Blue Sailor Collar"
   },
   {
     "id": "1741126284462",
@@ -1411,7 +1601,9 @@
     "traits": [
       "kneehighs"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "cvertical stripes, gym uniform, buruma, uwabaki, white kneehighs",
+    "name_zh": "Cvertical Stripes & Gym Uniform"
   },
   {
     "id": "1741126287740",
@@ -1426,7 +1618,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "crop top, one-piece swimsuit, sailor collar, school swimsuit, swimsuit under clothes, 白色大腿袜",
+    "name_zh": "Crop Top & One-Piece Swimsuit"
   },
   {
     "id": "1741126291612",
@@ -1440,7 +1634,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "crop top, loose socks, neckerchief, navel, 粉色夹克, 黑色项圈, midriff, belt, pink sailor collar, face mask, white shirt, 粉色半身裙, off shoulder, thigh strap, long sleeves, sneakers, 白色袜子",
+    "name_zh": "Crop Top & Loose Socks"
   },
   {
     "id": "1741126310643",
@@ -1456,7 +1652,9 @@
       "collar",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "露肩, 黑色夹克, black necktie, 黑色半身裙, collared shirt, long sleeves, military hat, necktie, white peaked cap, 百褶裙, sleeveless shirt, white shirt, kneehighs, loafers",
+    "name_zh": "露肩 & 黑色夹克"
   },
   {
     "id": "1741126314408",
@@ -1473,7 +1671,9 @@
       "collar",
       "sleeveless"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "black bow, black bowtie, 黑色外套, 黑色丝带/蝴蝶结, blue sailor collar, blue trim, brown footwear, brown shorts, button badge, open bag, messenger bag, multicolored coat, neck ribbon, off shoulder, red bow, red bowtie, shorts, shoulder bag, sleeveless shirt, two-tone coat, very long sleeves, white shirt, 黄色外套",
+    "name_zh": "Black Bow & Black Bowtie"
   },
   {
     "id": "1741126318040",
@@ -1486,7 +1686,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "blue track pants, long pants, white polo shirt, short sleeves, blue collar, 白色袜子, white sneakers",
+    "name_zh": "Blue Track Pants & Long Pants"
   },
   {
     "id": "1741126321144",
@@ -1499,7 +1701,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images"
+    "folder": "images",
+    "tags_zh": "blue track pants, long pants, white polo shirt, blue collar, blue track jacket, open jacket, 白色袜子, white sneakers",
+    "name_zh": "Blue Track Pants & Long Pants"
   },
   {
     "id": "1741130387061",
@@ -1516,7 +1720,9 @@
       "glasses",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "西装/套装, 眼镜, white shirt, pencil skirt, long sleeves, 黑色半身裙, collared shirt, 黑色夹克, 黑色连裤袜, semi-rimless eyewear, formal, 迷你裙, red-framed eyewear, brown pantyhose",
+    "name_zh": "西装/套装 & 眼镜"
   },
   {
     "id": "1741130518286",
@@ -1532,7 +1738,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "competition swimsuit, 红色夹克, off shoulder, highleg swimsuit, whistle around neck, open jacket, black one-piece swimsuit, collarbone, visor cap, 露乳沟, 侧乳",
+    "name_zh": "Competition Swimsuit & 红色夹克"
   },
   {
     "id": "1741130614514",
@@ -1548,7 +1756,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "nurse cap, braid, 护士服, 大腿袜, garter straps, holding syringe, chest harness, 白色手套, 白色大腿袜, harness, bandaid on arm, short sleeves, 连衣裙",
+    "name_zh": "Nurse Cap & Braid"
   },
   {
     "id": "1741130705837",
@@ -1561,7 +1771,9 @@
     "traits": [
       "glasses"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "white lab coat, stethoscope, wire-framed glasses, black pants, belt, white shirt, open coat",
+    "name_zh": "White Lab Coat & Stethoscope"
   },
   {
     "id": "1741130906085",
@@ -1577,7 +1789,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black belt, 黑色靴子, 黑色手套, blue armband, blue necktie, blue shirt, 蓝色半身裙, breast pocket, chest harness, cuffs, fingerless gloves, police uniform, short sleeves, thigh strap, zipper",
+    "name_zh": "Black Belt & 黑色靴子"
   },
   {
     "id": "1741131008030",
@@ -1591,7 +1805,9 @@
       "apron",
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "print apron, 蓝色围裙, black bow, striped bow, black bowtie, name tag, striped clothes, white shirt, short sleeves, blue shorts, white sneakers, blue headscarf",
+    "name_zh": "Print Apron & 蓝色围裙"
   },
   {
     "id": "1741131093115",
@@ -1606,7 +1822,9 @@
       "apron",
       "ribbon"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "double-breasted, long sleeves, 丝带/蝴蝶结, 蓝色连衣裙, hair ribbon, puffy sleeves, buttons, 黑色丝带/蝴蝶结, 白色围裙, 白色连裤袜, waist apron",
+    "name_zh": "Double-Breasted & Long Sleeves"
   },
   {
     "id": "1741131188589",
@@ -1625,7 +1843,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "女仆装, maid headdress, 白色大腿袜, 可拆卸袖套, frilled dress, 白色围裙, detached collar, maid apron, waist apron, garter straps, 露乳沟, bowtie, neck ribbon, 露肩, frilled apron, 黑色丝带/蝴蝶结, 黑色连衣裙",
+    "name_zh": "女仆装 & Maid Headdress"
   },
   {
     "id": "1741131290883",
@@ -1643,7 +1863,9 @@
       "short shorts",
       "ribbon"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "maid headdress, 袜子, navel, loose socks, white shorts, hairclip, 荷叶边, 露乳沟, hair ribbon, leg warmers, 白色袜子, long sleeves, arm warmers, short shorts, kneehighs, unconventional maid, chest harness, wing hair ornament, crop top",
+    "name_zh": "Maid Headdress & 袜子"
   },
   {
     "id": "1741131368397",
@@ -1660,7 +1882,9 @@
       "latex",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "latex bodysuit, black bodysuit, bodysuit under clothes, skin tight, 黑色连衣裙, puffy sleeves, dress lift, long sleeves, 女仆装, shiny clothes, 黑色手套, 围裙, 露乳沟",
+    "name_zh": "Latex Bodysuit & Black Bodysuit"
   },
   {
     "id": "1741131476143",
@@ -1677,7 +1901,9 @@
       "high heels",
       "apron"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "女仆装, hairband, 黑色连衣裙, frilled dress, buckle, snap-fit buckle, chest harness, maid apron, frilled apron, 黑色连裤袜, 黑色手套, red armband, 高跟鞋",
+    "name_zh": "女仆装 & Hairband"
   },
   {
     "id": "1741131571301",
@@ -1692,7 +1918,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "paw gloves, paw shoes, bear ears, maid headdress, 毛边, bandaid on leg fake animal ears, blush stickers, striped thighhighs, blue and white thighhigh, wings, single thighhigh, bandages, asymmetrical legwear",
+    "name_zh": "Paw Gloves & Paw Shoes"
   },
   {
     "id": "1741131736015",
@@ -1707,7 +1935,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "wide sleeves, 可拆卸袖套, 露肩, 白色大腿袜, long sleeves, maid headdress, detached collar, obi, floral print kimono",
+    "name_zh": "Wide Sleeves & 可拆卸袖套"
   },
   {
     "id": "1741131798466",
@@ -1722,7 +1952,9 @@
     "traits": [
       "apron"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "bandaged leg, bandages, blue bow, 蓝色连衣裙, bridal garter, 露乳沟, hair bow, holding syringe, 护士服, nurse cap, pink bow, puffy short sleeves, purple bow, 白色围裙, wrist cuffs",
+    "name_zh": "Bandaged Leg & Bandages"
   },
   {
     "id": "1741132012176",
@@ -1736,7 +1968,9 @@
       "pantyhose",
       "high heels"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "白色连裤袜, 高跟鞋, 高跟鞋, gold trim, striped, bow shoes, epaulettes, red shirt, buttons, black shorts, top hat",
+    "name_zh": "白色连裤袜 & 高跟鞋"
   },
   {
     "id": "1741132073385",
@@ -1749,7 +1983,9 @@
     "traits": [
       "leather"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "striped shirt, showgirl skirt, single vertical stripe, garrison cap, leather jacket, grey bike shorts",
+    "name_zh": "Striped Shirt & Showgirl Skirt"
   },
   {
     "id": "1741132239072",
@@ -1764,7 +2000,9 @@
       "ribbon",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "白色丝带/蝴蝶结, red shirt, collared shirt, short sleeves, bartender, black vest, dress pants",
+    "name_zh": "白色丝带/蝴蝶结 & Red Shirt"
   },
   {
     "id": "1741132413318",
@@ -1780,7 +2018,9 @@
       "tie",
       "glasses"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "white shirt, short sleeves, headphone, pilot, black necktie, sunglasses, shoulder boards, pencil dress, 黑色大腿袜, monk shoes",
+    "name_zh": "White Shirt & Short Sleeves"
   },
   {
     "id": "1741132516207",
@@ -1791,7 +2031,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "yellow motorcycle helmet, 黄色夹克, black pants, black sneakers",
+    "name_zh": "Yellow Motorcycle Helmet & 黄色夹克"
   },
   {
     "id": "1741132687079",
@@ -1807,7 +2049,9 @@
       "miniskirt",
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "黑色手套, red necktie, 迷你裙, 黑色半身裙, 黑色大腿袜, brown belt, yellow vest, buttons, frilled skirt, short sleeves, green mini hat, garter straps",
+    "name_zh": "黑色手套 & Red Necktie"
   },
   {
     "id": "1741132750989",
@@ -1825,7 +2069,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "solider, tactic helmet, military uniform, 夹克, latex bodysuit underwear, 半身裙, 黑色手套, knee pads, elbow pads, 靴子, 黑色连裤袜",
+    "name_zh": "Solider & Tactic Helmet"
   },
   {
     "id": "1741132848728",
@@ -1840,7 +2086,9 @@
       "boots",
       "short shorts"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "ammunition pouch, belt, 黑色大腿袜, combat boots, combat helmet, crop top, headset, helmet, midriff, navel, plate carrier, short shorts, skindentation, tactical clothes",
+    "name_zh": "Ammunition Pouch & Belt"
   },
   {
     "id": "1741133029578",
@@ -1855,7 +2103,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "ar-15, assault rifle, 黑色手套, 黑色夹克, black pants, body armor, bulletproof vest, fingerless gloves, gas mask, goggles, helmet, holding gun, holstered weapon, knee pads, load bearing vest, long sleeves, military uniform, pouch, suppressor, tactical clothes, thigh holster, thigh strap, trigger discipline, walkie-talkie",
+    "name_zh": "Ar-15 & Assault Rifle"
   },
   {
     "id": "1741133085474",
@@ -1869,7 +2119,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "assault rifle, body armor, camouflage, camouflage jacket, chin strap, combat helmet, 绿色手套, headphones, holding gun, long hair, long sleeves, night vision device, optical sight, plate carrier, gun, rifle, rk62",
+    "name_zh": "Assault Rifle & Body Armor"
   },
   {
     "id": "1741133165468",
@@ -1882,7 +2134,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "bolt action, 披风, 手套, gun, 夹克, jacket on shoulders, lee-enfield, rifle, sleeves rolled up, vest",
+    "name_zh": "Bolt Action & 披风"
   },
   {
     "id": "1741133314658",
@@ -1896,7 +2150,9 @@
       "glasses",
       "leather"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "gas mask, 蓝色眼镜, gun, walkie-talkie, bulletproof vest, headset, leather tight fitting suit, belt, clip, dagger, watch, holding automatic rifle, backpack, wires",
+    "name_zh": "Gas Mask & 蓝色眼镜"
   },
   {
     "id": "1741133364614",
@@ -1910,7 +2166,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "黑色外套, holding gun, handgun, military lolita, aristocratic clothes, peaked cap, black cap, dress shirt, white shirt, cross tie, 黑色领带, insignia, belt, corset, dark aqua coat, double-breasted, peacoat, 黑色半身裙, aqua skirt, over skirt, medium skirt, framed breasts, black belt, 荷叶边袖, 荷叶边, gold trim, 珠宝, frilled skirt, puffy long sleeves",
+    "name_zh": "黑色外套 & Holding Gun"
   },
   {
     "id": "1741133482688",
@@ -1925,7 +2183,9 @@
       "pantyhose",
       "lace"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "garrison cap, 披风, neckerchief, lace-trimmed choker, blouse, white shirt, gray pencil dress, gainsboro coat, 黑色连裤袜",
+    "name_zh": "Garrison Cap & 披风"
   },
   {
     "id": "1741133741618",
@@ -1939,7 +2199,9 @@
       "gloves",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "microphone stand, asymmetrical dress, 红色连衣裙, sleeveless dress, 黑色连衣裙, layered dress, 黑色手套, fingerless gloves, 肘部手套, 黑色项圈, back cutout, clothing cutout, black flower, earrings, feather hair ornament, frilled dress, 荷叶边, hair flower, hair rings, sphere earrings, 露肩",
+    "name_zh": "Microphone Stand & Asymmetrical Dress"
   },
   {
     "id": "1741133830491",
@@ -1953,7 +2215,9 @@
       "lace",
       "high heels"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "frilled dress, 白色连衣裙, (sideless outfit:1.15), cross-laced corset, waist cape, aqua shawl, clothing cutout, bridal gauntlets, (asymmetrical legwear:1.05), 高跟鞋, single thigh boot, blue bow, hair bow, golden bangle, earrings, brooch",
+    "name_zh": "Frilled Dress & 白色连衣裙"
   },
   {
     "id": "1741133926442",
@@ -1967,7 +2231,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "蓝色大腿袜, 紧身连体衣, playboy bunny, rabbit ears, 露乳沟, garter straps, top hat, microphone stand, 露肩, 白色手套, 荷叶边, 红色项圈",
+    "name_zh": "蓝色大腿袜 & 紧身连体衣"
   },
   {
     "id": "1741133999448",
@@ -1986,7 +2252,9 @@
       "miniskirt",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "demon tail, pink demon wings, pink visor cap, headset, black collar, cropped jacket, open jacket, crop top, 露乳沟, suspenders, 黑色可拆卸袖套, black fingerless gloves, pink layered miniskirt, black waist apron, brown thighhighs, black knee boot",
+    "name_zh": "Demon Tail & Pink Demon Wings"
   },
   {
     "id": "1741134100720",
@@ -2001,7 +2269,9 @@
       "high heels",
       "backless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "(transparent footwear:1.1), (laurel crown:1.2), 露背装, 高跟鞋, bridal gauntlets, earrings, frilled dress, hair bow, waist cape, aqua shawl, white long dress, cross-laced corset, golden bangle, blue bow, navel cutout, cleavge cutout",
+    "name_zh": "(Transparent Footwear:1.1) & (Laurel Crown:1.2)"
   },
   {
     "id": "1741134186483",
@@ -2015,7 +2285,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "headphones, collar, black leg warmers, white shirt, short sleeve, 可拆卸袖套, black sleeves, black sailor collar, footwear",
+    "name_zh": "Headphones & Collar"
   },
   {
     "id": "1741134282930",
@@ -2033,7 +2305,9 @@
       "miniskirt",
       "off-shoulder"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "garter straps, crop top, off-shoulder shirt, short sleeves, midriff, electric guitar, 黑色大腿袜, 蓝色迷你裙, belt, black shirt, plaid skirt, playing instrument, bracelet, hair bow, black bra, lace trim, 露乳沟, layered skirt, red nails, 项链, holding instrument, 黑色项圈",
+    "name_zh": "Garter Straps & Crop Top"
   },
   {
     "id": "1741134451086",
@@ -2046,7 +2320,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "ballerina, athletic leotard, ballet, 白色连裤袜, ballet slippers, white bodysuit",
+    "name_zh": "Ballerina & Athletic Leotard"
   },
   {
     "id": "1741134504795",
@@ -2059,7 +2335,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "ballerina, athletic leotard, ballet, 白色连裤袜, ballet slippers, white bodysuit, tutu",
+    "name_zh": "Ballerina & Athletic Leotard"
   },
   {
     "id": "1741134592870",
@@ -2074,7 +2352,9 @@
       "gloves",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "jester cap, two-tone skirt, 蓝色半身裙, 白色半身裙, two-tone shirt, red shirt, blue shirt, sleeveless shirt, 蓝色大腿袜, 粉色大腿袜, white wrist cuffs, 红色手套, 肘部手套, red footwear, pointy footwear",
+    "name_zh": "Jester Cap & Two-Tone Skirt"
   },
   {
     "id": "1741134696192",
@@ -2089,7 +2369,9 @@
       "thighhighs",
       "off-shoulder"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "露肩, 黑色项圈, 黑色丝带/蝴蝶结, 黑色半身裙, frilled shirt, frilled skirt, 荷叶边, hair ribbon, heart choker, high-waist skirt, long sleeves, off-shoulder shirt, pink shirt, 百褶裙, 白色大腿袜",
+    "name_zh": "露肩 & 黑色项圈"
   },
   {
     "id": "1741134806508",
@@ -2104,7 +2386,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "white shirt, 白色大腿袜, 黑色内裤, 蓝色半身裙, bracelet, cheerleader, crop top, crop top overhang, pom pom \\(cheerleading\\)",
+    "name_zh": "White Shirt & 白色大腿袜"
   },
   {
     "id": "1741134939606",
@@ -2120,7 +2404,9 @@
       "miniskirt",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "tennis uniform, tennis racket, 蓝色迷你裙, 百褶裙, crop top, 无袖, bike shorts, fingerless gloves, 露肩, navel",
+    "name_zh": "Tennis Uniform & Tennis Racket"
   },
   {
     "id": "1741135040822",
@@ -2134,7 +2420,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "long sleeves, 白色大腿袜, open jacket, 露肩, open clothes, backpack, yellow shorts, sleeves past wrists, yellow sneakers, crop top, 露乳沟",
+    "name_zh": "Long Sleeves & 白色大腿袜"
   },
   {
     "id": "1741135124315",
@@ -2147,7 +2435,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black bodystocking, bikesuit, biker clothes, 黑色手套, 蓝色手套, open bodysuit, unzipped",
+    "name_zh": "Black Bodystocking & Bikesuit"
   },
   {
     "id": "1741135274824",
@@ -2164,7 +2454,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "gorgeous crown, collar, 靴子, delicate gorgeous racer costume, mini vest, 黑色百褶裙, 迷你裙, crop racing suit, racing coat, open-toe gloves, holding flag, checkered flag",
+    "name_zh": "Gorgeous Crown & Collar"
   },
   {
     "id": "1741135349201",
@@ -2177,7 +2469,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "黑色连裤袜, black wetsuit, bodysuit, diving mask on head, diving regulator, diving suit, oxygen tank",
+    "name_zh": "黑色连裤袜 & Black Wetsuit"
   },
   {
     "id": "1741135409434",
@@ -2190,7 +2484,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "黑色连裤袜, black wetsuit, bodysuit, center opening, diving mask on head, diving regulator, diving suit, oxygen tank, torn pantyhose, armpit cutout",
+    "name_zh": "黑色连裤袜 & Black Wetsuit"
   },
   {
     "id": "1741135551274",
@@ -2206,7 +2502,9 @@
       "gloves",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black bow, bridal gloves, collar, detachable sleeves, hair accessories, sleeve bow, ruffled collar, 荷叶边, coat on shoulder, raw edge sleeves, 白色手套, headband, white baby dress, wide sleeves, cross necklace, poppy \\(flower\\) head flower",
+    "name_zh": "Black Bow & Bridal Gloves"
   },
   {
     "id": "1741135699296",
@@ -2221,7 +2519,9 @@
       "silk",
       "off-shoulder"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "mascara, fishnet, oversized emohoodie, 大腿袜, long skirt, 露肩, silk clothing, 项圈, goth, emo(clothing), decorative belts, goth eyeliner, thigh strap, arm belts, oversized sleeves, black and red lipstick",
+    "name_zh": "Mascara & Fishnet"
   },
   {
     "id": "1741135853394",
@@ -2237,7 +2537,9 @@
       "miniskirt",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "asymmetrical legwear, black belt, 黑色项圈, 黑色半身裙, collarbone, cross, cross necklace, fishnet thighhighs, latin cross, thigh garter, long sleeves, 迷你裙, mismatched legwear, 项链, o-ring, o-ring thigh strap, plaid skirt, red shirt, spiked choker, spikes, striped clothes, striped shirt, tattoo, thigh strap",
+    "name_zh": "Asymmetrical Legwear & Black Belt"
   },
   {
     "id": "1741135965212",
@@ -2253,7 +2555,9 @@
       "thighhighs",
       "glasses"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "arm tattoo, black belt, 黑色连衣裙, black shorts, china dress, hair bun, red nails, 蓝色大腿袜, single thighhigh, tassel hair ornament, x hair ornament, sunglasses, round eyewear, bracelet, o-ring thigh strap, tassel",
+    "name_zh": "Arm Tattoo & Black Belt"
   },
   {
     "id": "1741136083547",
@@ -2268,7 +2572,9 @@
       "glasses",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "graphic tee, ripped jeans, studded belt, combat boots, layered with a denim vest, chunky silver necklace, wristwatch, black nail polish, eye makeup, sunglasses on her head, baseball bat",
+    "name_zh": "Graphic Tee & Ripped Jeans"
   },
   {
     "id": "1741136155902",
@@ -2279,7 +2585,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black shoes, brown gloves, brown pants, brown cowboy hat, red neckerchief, sheriff badge",
+    "name_zh": "Black Shoes & Brown Gloves"
   },
   {
     "id": "1741136406728",
@@ -2294,7 +2602,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "deerstalker, detective, belt, bowtie, crimson capelet, dress pants, 黑色外套, 手套, holding smoking pipe, sherlock holmes \\(cosplay\\)",
+    "name_zh": "Deerstalker & Detective"
   },
   {
     "id": "1741136491958",
@@ -2309,7 +2619,9 @@
       "gloves",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "blue brooch, 蓝色手套, blue pants, 蓝色丝带/蝴蝶结, blue shirt, buttons, collared shirt, double-breasted, 白色外套, long sleeves, white top hat, hat feather, hat ribbon, blue flower",
+    "name_zh": "Blue Brooch & 蓝色手套"
   },
   {
     "id": "1741136808127",
@@ -2324,7 +2636,9 @@
       "high heels",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "belt buckle, 黑色连衣裙, black high heel boots, 高跟鞋, 黑色连裤袜, pirate hat, puffy sleeves, shoulder strap, thigh strap",
+    "name_zh": "Belt Buckle & 黑色连衣裙"
   },
   {
     "id": "1741136928493",
@@ -2337,7 +2651,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "blue robe, blue sash, chinese hairpin, hair bun, 发饰, maple leaf print hanfu, high collar, long eyelashes, sidelocks, single hair bun, tassel",
+    "name_zh": "Blue Robe & Blue Sash"
   },
   {
     "id": "1741137015729",
@@ -2353,7 +2669,9 @@
       "lace",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "hair ring, (hanfu:1.1), blue upper shan, mandarin collar, 白色百褶裙, layered dress, lightcyan fur capelet, wide sleeves, overlapping collar, tassel, embroidery, gold trim, chinese style, blue waistband, hair bobbles, hair flower, white transparent thighhighs, lace-trimmed legwear, toeless legwear, white pibo",
+    "name_zh": "Hair Ring & (Hanfu:1.1)"
   },
   {
     "id": "1741137105019",
@@ -2368,7 +2686,9 @@
       "bare legs",
       "high heels"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "chinese clothes, 光腿, 金色高跟鞋, shawl, (dudou:1.1), fan, off shoulder, see-through cleavage, (bodystocking, hanfu:1.1)",
+    "name_zh": "Chinese Clothes & 光腿"
   },
   {
     "id": "1741137274860",
@@ -2382,7 +2702,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "hair flower, hand fan, holding fan, 项链, long sleeves, upper body, folded fan, (hanfu, chinese clothes:1.15), hair bun, wide sleeves, shawl, tassel, ring, x hair ornament, 露乳沟",
+    "name_zh": "Hair Flower & Hand Fan"
   },
   {
     "id": "1741137518371",
@@ -2398,7 +2720,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "flower print hanfu, 白色汉服, chinese clothes, blue hair ribbon, fur cloak, side cleavage, hairpin, side-tie, 侧乳, 白色大腿袜",
+    "name_zh": "Flower Print Hanfu & 白色汉服"
   },
   {
     "id": "1741137620083",
@@ -2412,7 +2736,9 @@
     "traits": [
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "(hanfu:1.1), crop top overhang, yin yang, black and white, (shawl, hagoromo:1.1), short skirt, midriff, toeless boots, bridal gauntlets, 露肩, yin yang print",
+    "name_zh": "(Hanfu:1.1) & Crop Top Overhang"
   },
   {
     "id": "1741137706928",
@@ -2426,7 +2752,9 @@
     "traits": [
       "ribbon"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "hair up, chinese clothes, 汉服, 黑色连衣裙, strapless, 丝带/蝴蝶结, 白色连衣裙, two-tone dress, see-through shawl, tassel, chinese knot, floral print hanfu, gold trim",
+    "name_zh": "Hair Up & Chinese Clothes"
   },
   {
     "id": "1741137971260",
@@ -2437,7 +2765,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "chinese wedding, bride, (red veil:1.15), red china dress, chinese clothes, wedding dress, earrings, red flower, tassel, gold trim",
+    "name_zh": "Chinese Wedding & Bride"
   },
   {
     "id": "1741138046871",
@@ -2452,7 +2782,9 @@
       "side slit",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "sleeveless dress, long dress, china dress, purple sash, indigo dress, 可拆卸袖套, wide sleeves, 侧开叉, barefoot, 光腿",
+    "name_zh": "Sleeveless Dress & Long Dress"
   },
   {
     "id": "1741138218579",
@@ -2467,7 +2799,9 @@
       "high heels",
       "backless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "和服, kimono dress, 露背装, crystal high heels, bridal gauntlets, earrings, frilled dress, 荷叶边, waist cape, laurel crown, aqua shawl, 白色连衣裙, cross-laced corset, golden bangle, blue bow, clothing cutout",
+    "name_zh": "和服 & Kimono Dress"
   },
   {
     "id": "1741138300648",
@@ -2482,7 +2816,9 @@
       "collar",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "pom pom \\(clothes\\) hair ornament, wrist scrunchie, maple leaf print, high collar, 无袖, blue robe, 汉服, tassel, visor cap, blue sash, shorts, 裸臂, navel",
+    "name_zh": "Pom Pom \\(Clothes\\) Hair Ornament & Wrist Scrunchie"
   },
   {
     "id": "1741138492941",
@@ -2496,7 +2832,9 @@
     "traits": [
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "midriff, navel, double bun, 盆骨帘, hair flower, cleavage cutout, 无袖, 露肩, crop top, 白色连衣裙",
+    "name_zh": "Midriff & Navel"
   },
   {
     "id": "1741138571308",
@@ -2512,7 +2850,9 @@
       "bare legs",
       "lace"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "looking at viewer, 光腿, 女仆装, chinese style, 汉服, white chest pleated skirt, 可拆卸袖套, wide sleeves, light yellow sleeves, gold trim, 蕾丝, 露肩, 荷叶边, chinese knot, anklet, 玛丽珍鞋, hoop earrings, maid headwear, hair stick, bangle",
+    "name_zh": "Looking At Viewer & 光腿"
   },
   {
     "id": "1741138717391",
@@ -2531,7 +2871,9 @@
       "side slit",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "蓝色连衣裙, 黑色手套, 露乳沟, garter straps, 黑色大腿袜, blue rose hair flower, 羽毛披肩, china dress, lace-trimmed thighhighs, 露肩, 白色高跟鞋, 侧开叉, holding fan, hand fan, lace trim, sleeveless dress",
+    "name_zh": "蓝色连衣裙 & 黑色手套"
   },
   {
     "id": "1741138832432",
@@ -2547,7 +2889,9 @@
       "tie",
       "sleeveless"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "china dress, earrings, 侧乳, 白色内裤, 无袖, 露肩, 白色大腿袜, shawl, sideless outfit, 蓝色连衣裙, snowflake print, no bra, covered navel",
+    "name_zh": "China Dress & Earrings"
   },
   {
     "id": "1741138954366",
@@ -2558,7 +2902,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "japanese clothes, white top, kendo, kendo clothing, open clothes, topless, sarashi, breasts bandages, holding bokken",
+    "name_zh": "Japanese Clothes & White Top"
   },
   {
     "id": "1741139122150",
@@ -2571,7 +2917,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "floral print kimono, 可拆卸袖套, fringe trim, 大腿袜, underboob",
+    "name_zh": "Floral Print Kimono & 可拆卸袖套"
   },
   {
     "id": "1741139146887",
@@ -2584,7 +2932,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "floral print red kimono, gold trim, fur collar, wide sleeves, very long sleeves, tabi, zouri, 白色袜子, hair ornaments, hair bun, hair stick, hair flower, red lips",
+    "name_zh": "Floral Print Red Kimono & Gold Trim"
   },
   {
     "id": "1741139230396",
@@ -2598,7 +2948,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "lipstick, collarbone, 大腿袜, makeup, navel, earrings, 可拆卸袖套, sash, short kimono, open kimono",
+    "name_zh": "Lipstick & Collarbone"
   },
   {
     "id": "1741139457366",
@@ -2609,7 +2961,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "夹克, shoes, 袜子, shorts, tennis racket, ponytail, sneakers, 白色袜子, visor cap, black footwear, long sleeves, multicolored jacket",
+    "name_zh": "夹克 & Shoes"
   },
   {
     "id": "1741139469018",
@@ -2625,7 +2979,9 @@
       "lace",
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "pirate costume, pirate hat, black headwear, black pants, braid, white shirt, brown belt, collarbone, pectoral cleavage, eyepatch, 金色项链, hat, 珠宝, multiple rings, 项链",
+    "name_zh": "Pirate Costume & Pirate Hat"
   },
   {
     "id": "1741139500128",
@@ -2636,7 +2992,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "bride, hood, hooded kimono, japanese clothes, 珠宝, ring, uchikake, wedding, white hood, 白色和服",
+    "name_zh": "Bride & Hood"
   },
   {
     "id": "1741139772088",
@@ -2650,7 +3008,9 @@
     "traits": [
       "apron"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "可拆卸袖套, 紫色和服, 白色袜子, okobo, maid headdress, tabi, 凉鞋, platform footwear, 女仆装, 露肩, 白色围裙, obi, sash, long sleeves, black footwear, bell",
+    "name_zh": "可拆卸袖套 & 紫色和服"
   },
   {
     "id": "1741139889066",
@@ -2659,7 +3019,9 @@
     "tags": "onmyoji elements, mystical symbols, yin-yang, spirit energy, traditional taoist clothing, talismans, ancient scrolls, chinese temple background, daoist priest, spiritual aura, exorcism,",
     "categories": [],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "onmyoji elements, mystical symbols, yin-yang, spirit energy, traditional taoist clothing, talismans, ancient scrolls, chinese temple background, daoist priest, spiritual aura, exorcism",
+    "name_zh": "Onmyoji Elements & Mystical Symbols"
   },
   {
     "id": "1741140025966",
@@ -2673,7 +3035,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "(ninja:1.1), forehead protector, (ninja mask:1.1), ( fishnet top:1.05), naked tabard, 露乳沟, (center opening:1.1), underboob, obi, 盆骨帘, groin, (fishnet thighhighs:1.15), 肘部手套, fingerless gloves, shin guard, 黑色围巾",
+    "name_zh": "(Ninja:1.1) & Forehead Protector"
   },
   {
     "id": "1741140177060",
@@ -2686,7 +3050,9 @@
     "traits": [
       "pantyhose"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "skin tight, navel, ninja, impossible leotard, (taimanin suit:1.1), 黑色连裤袜",
+    "name_zh": "Skin Tight & Navel"
   },
   {
     "id": "1741140320902",
@@ -2695,7 +3061,9 @@
     "tags": "geisha, makeup flower, (long smoking pipe, smoke:1.05), black nail polish, (large tattoos on shoulder:1.1), woven gold, embroidery, geisha hair,",
     "categories": [],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "geisha, makeup flower, (long smoking pipe, smoke:1.05), black nail polish, (large tattoos on shoulder:1.1), woven gold, embroidery, geisha hair",
+    "name_zh": "Geisha & Makeup Flower"
   },
   {
     "id": "1741140528435",
@@ -2708,7 +3076,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "earrings, egyptian clothes, hair tubes, hairband, hoop earrings jackal ears, navel, white harem outfit, partial fingerless gloves, 肘部手套, see-through sleeves",
+    "name_zh": "Earrings & Egyptian Clothes"
   },
   {
     "id": "1741140606815",
@@ -2719,7 +3089,9 @@
     "traits": [
       "bare legs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "ancient greek clothes, laurel toga, 露肩, blue robe, 金色项圈, greco-roman clothes, 光腿",
+    "name_zh": "Ancient Greek Clothes & Laurel Toga"
   },
   {
     "id": "1741140781710",
@@ -2733,7 +3105,9 @@
       "lace",
       "halterneck"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "挂脖, 金色项圈, belly chain, harem outfit, navel, 项链, 盆骨帘, 暴露服饰, veil, pubic tattoo",
+    "name_zh": "挂脖 & 金色项圈"
   },
   {
     "id": "1741140901705",
@@ -2746,7 +3120,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "黑色手套, (harem outfit, mouth veil, breast curtain, pelvic curtain:1.1), head veil, bodystocking, armpit cutout, 透视, 肘部手套, 露肩",
+    "name_zh": "黑色手套 & (Harem Outfit"
   },
   {
     "id": "1741141015501",
@@ -2761,7 +3137,9 @@
       "gloves",
       "halterneck"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "挂脖, criss-cross halter, bat wings, 蓝色紧身连体衣, highleg leotard, strapless leotard, asymmetrical legwear, fingerless gloves, 肘部手套, witch hat, 蓝色大腿袜, covered navel",
+    "name_zh": "挂脖 & Criss-Cross Halter"
   },
   {
     "id": "1741141225924",
@@ -2776,7 +3154,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black short dress, puffy short sleeves, black hat, bubble skirt, corset, frilled choker, frilled dress, frilled hat, frilled wrist cuffs, hipwitch hat, 荷叶边, hair bow, halloween costume, jack-o'-lantern choker, square neckline, striped_legwear, 黑色大腿袜, orange thighhighs",
+    "name_zh": "Black Short Dress & Puffy Short Sleeves"
   },
   {
     "id": "1741141404820",
@@ -2790,7 +3170,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "china dress, cleavage cutout, covered nipples, halloween costume, jiangshi costume, maebari, navel, ofuda, smile, 大腿袜",
+    "name_zh": "China Dress & Cleavage Cutout"
   },
   {
     "id": "1741141481403",
@@ -2801,7 +3183,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "stitched arm, stitches, naked bandage, navel, underboob",
+    "name_zh": "Stitched Arm & Stitches"
   },
   {
     "id": "1741141714165",
@@ -2816,7 +3200,9 @@
       "latex",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "cyberwitches, 赛博朋克, hood, neon, witch hat, 手套, long sleeves, glowing, black headwear, bodysuit, 乳胶, 女巫",
+    "name_zh": "Cyberwitches & 赛博朋克"
   },
   {
     "id": "1741141741013",
@@ -2829,7 +3215,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "cyborg, 黑色手套, 黑色夹克, 黑色紧身连体衣, black pants, bottle, brown belt, handgun, thigh strap",
+    "name_zh": "Cyborg & 黑色手套"
   },
   {
     "id": "1741141811800",
@@ -2841,7 +3229,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "mechanical armor, chinese dress, mechanical mask, machinery, energy wings, mechanical arms, glowing, holding energy sword",
+    "name_zh": "Mechanical Armor & Chinese Dress"
   },
   {
     "id": "1741141946724",
@@ -2853,7 +3243,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "赛博朋克, science fiction, power armor, 红色铠甲, spacesuit, holding gun, beam rifle",
+    "name_zh": "赛博朋克 & Science Fiction"
   },
   {
     "id": "1741142158691",
@@ -2864,7 +3256,9 @@
     "traits": [
       "latex"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "faceless, covered face, full latex helmet, head-mounted display, barcode, latex skin, colored skin, black skin, rubber cat ear, shiny skin, skin reflection, neon trim",
+    "name_zh": "Faceless & Covered Face"
   },
   {
     "id": "1741142274830",
@@ -2878,7 +3272,9 @@
       "latex",
       "glasses"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "乳胶, latex bodysuit, belt pouch, belt, holster, x-ray glasses, covered eyes, glowing eyes",
+    "name_zh": "乳胶 & Latex Bodysuit"
   },
   {
     "id": "1741142458753",
@@ -2894,7 +3290,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "铠甲, armored dress, 黑色手套, black legwear, chain, 毛边, gauntlets, greaves, headpiece, 夹克, knee boots, open jacket",
+    "name_zh": "铠甲 & Armored Dress"
   },
   {
     "id": "1741142529089",
@@ -2906,7 +3304,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "mechanical armor, chinese dress, mechanical mask, wings, mechanical arms, holding mechanical katana",
+    "name_zh": "Mechanical Armor & Chinese Dress"
   },
   {
     "id": "1741142629038",
@@ -2917,7 +3317,9 @@
       "制服/西服 (Uniform & Suit)"
     ],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "black bodysuit, machinery, hood, flaming eye, black mask, holographic monitor",
+    "name_zh": "Black Bodysuit & Machinery"
   },
   {
     "id": "1741142822750",
@@ -2926,7 +3328,9 @@
     "tags": "nude, textured skin, metal skin, matte skin, glowing eyes, cable hair, full-coverage mechanical mask, steam body, claws,",
     "categories": [],
     "traits": [],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "nude, textured skin, metal skin, matte skin, glowing eyes, cable hair, full-coverage mechanical mask, steam body, claws",
+    "name_zh": "Nude & Textured Skin"
   },
   {
     "id": "1741142846480",
@@ -2941,7 +3345,9 @@
     "traits": [
       "latex"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "(revealing clothes:1.1), cyberpunk armor, (naked wizard robes:1.05), wings, scale armor, (latex bodysuit:0.9), purple fire",
+    "name_zh": "(Revealing Clothes:1.1) & Cyberpunk Armor"
   },
   {
     "id": "1741142946626",
@@ -2954,7 +3360,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "mechanical ears, mecha tail, red tail, mechanical arm, highleg, 黑色紧身连体衣, barcode on leg, 黑色大腿袜, mecha shoes, cleavage cutout, navel cutout",
+    "name_zh": "Mechanical Ears & Mecha Tail"
   },
   {
     "id": "1741143127094",
@@ -2968,7 +3376,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "earrings, high collar, zipper, hairclip, sheathed, katana, weapon on back, center opening, 露乳沟, collarbone, navel, white bodysuit",
+    "name_zh": "Earrings & High Collar"
   },
   {
     "id": "1741143221565",
@@ -2983,7 +3393,9 @@
       "latex",
       "gloves"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "(naked latex bodysuit, light green bodysuit, latex gloves, mouth mask:1.1), cameltoe, covered nipples, chest harness, tablet pc, hood up, thigh strap, tool belt",
+    "name_zh": "(Naked Latex Bodysuit & Light Green Bodysuit"
   },
   {
     "id": "1741143355135",
@@ -2999,7 +3411,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images2"
+    "folder": "images2",
+    "tags_zh": "sword, 靴子, 手套, sheath, full body, knee boots, 铠甲, 紧身连体衣, belt, scabbard, tight clothes, holding sword, thigh strap, cropped jacket, bodysuit, skin tight, tight pants, greaves, gauntlets",
+    "name_zh": "Sword & 靴子"
   },
   {
     "id": "1741143554811",
@@ -3013,7 +3427,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "barcode tattoo, fingerless gloves, 肘部手套, torn gloves, 黑色手套, 露肩, 黑色大腿袜, 黑色比基尼, harness, evealing clothes, thigh strap, torn thighhighs, tablet pc, holstered weapon, underboob, thigh holster, headphones, gun",
+    "name_zh": "Barcode Tattoo & Fingerless Gloves"
   },
   {
     "id": "1741154956984",
@@ -3028,7 +3444,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black fabric, glowing trim, high-waisted bottoms, halter top, led strips, glowing patterns, fingerless gloves, neon bracelets, 大腿袜, combat boots, glowing visor cap, holographic visor, led choker, neon anklets, cyber earrings, glowing belt buckle",
+    "name_zh": "Black Fabric & Glowing Trim"
   },
   {
     "id": "1741155122362",
@@ -3042,7 +3460,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "黑色项圈, sneakers, tight pants, pantylines, tight, holographic jacket, iridescent jacket, off shoulder jacket, highleg panties, shiny clothes, open jacket, bursting breasts, camisole, thigh strap, skindentation",
+    "name_zh": "黑色项圈 & Sneakers"
   },
   {
     "id": "1741155316688",
@@ -3059,7 +3479,9 @@
       "latex",
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(cyborg theme shoes:1.1), (glowing shoes:1.2), (see-through:1.1), (latex clothes:1.1), (chewing gum:1.1), navel, (black thighhighs:1.05), hood up, shrug \\(clothing\\), glowing bikini, side-tie bikini bottom, 紫色连帽衫, underboob, cropped hoodie, long sleeves",
+    "name_zh": "(Cyborg Theme Shoes:1.1) & (Glowing Shoes:1.2)"
   },
   {
     "id": "1741155610959",
@@ -3068,7 +3490,9 @@
     "tags": "holding big gun, mechanical hands, (transparent glass helmet, wearing transparent glass mask:1.2), horrorwire, screw, machinery factory, barcode, exposed mechanical components, thrusters, laser, circuit, mechanical wings,",
     "categories": [],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "holding big gun, mechanical hands, (transparent glass helmet, wearing transparent glass mask:1.2), horrorwire, screw, machinery factory, barcode, exposed mechanical components, thrusters, laser, circuit, mechanical wings",
+    "name_zh": "Holding Big Gun & Mechanical Hands"
   },
   {
     "id": "1741155803228",
@@ -3082,7 +3506,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "halo, energy sword, planted mechanical ears, mechanical tail, mechanical wings, (single mechanical arm:1.2), (black highleg leotard:1.1), (barcode on leg:1.1), 黑色大腿袜, cleavage cutout, navel cutout, 白色夹克",
+    "name_zh": "Halo & Energy Sword"
   },
   {
     "id": "1741155895685",
@@ -3093,7 +3519,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "warhammer 40k, terminator armor, power armor, oversized limbs",
+    "name_zh": "Warhammer 40K & Terminator Armor"
   },
   {
     "id": "1741156002857",
@@ -3107,7 +3535,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "黑色大腿袜, red headwear, fingerless gloves, black shirt, 黑色手套, zettai ryouiki, bag, baseball cap, microskirt, 肘部手套, 露肩",
+    "name_zh": "黑色大腿袜 & Red Headwear"
   },
   {
     "id": "1741156073192",
@@ -3116,7 +3546,9 @@
     "tags": "(yellow chemical protective clothing:1.1), (large broken glass helmet:1.3), oxygen tanks, mask,",
     "categories": [],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(yellow chemical protective clothing:1.1), (large broken glass helmet:1.3), oxygen tanks, mask",
+    "name_zh": "(Yellow Chemical Protective Clothing:1.1) & (Large Broken Glass Helmet:1.3)"
   },
   {
     "id": "1741156562721",
@@ -3130,7 +3562,9 @@
       "silk",
       "glasses"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(bloodborne:1.2), 眼镜, (black silk stockings:1.1), capelet, circlet, black gothic empire waist dress, meat saw knife, blood sword, flint gun",
+    "name_zh": "(Bloodborne:1.2) & 眼镜"
   },
   {
     "id": "1741156572576",
@@ -3141,7 +3575,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "angel wings, 铠甲, blade encarmine, blood angels, cherub, fire, flaming sword, glowing eyes, 金色铠甲, halo, mask, ornate armor, ornate weapon, pauldrons, power armor, red gemstone, shoulder armor, teardrop-shaped gem",
+    "name_zh": "Angel Wings & 铠甲"
   },
   {
     "id": "1741156656403",
@@ -3157,7 +3593,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "victorian fashion, aqua skirt, (round monocle:1.1), 领巾, vest, belt, military uniform, 靴子, 黑色外套, (coat on shoulders:1.1), collared white shirt, 白色手套, long skirt, long sleeves",
+    "name_zh": "Victorian Fashion & Aqua Skirt"
   },
   {
     "id": "1741156791881",
@@ -3172,7 +3610,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "crown, scepter, coat on shoulders, bowtie, fur-trimmed coat, 手套, hair scrunchie, high collar, head flower, white pants",
+    "name_zh": "Crown & Scepter"
   },
   {
     "id": "1741156875785",
@@ -3186,7 +3626,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(see-through shoes, glass slippers:1.2), crown, princess, gorgeous aristocratic attire, princess dress, 白色大腿袜",
+    "name_zh": "(See-Through Shoes & Glass Slippers:1.2)"
   },
   {
     "id": "1741156980461",
@@ -3202,7 +3644,9 @@
       "leather",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "红色连衣裙, 露乳沟, brown cape, fur-trimmed cape, brown leather belt, golden belt buckle, brown leather gloves, black leather thigh boots, high heel boots, holding silver rapier",
+    "name_zh": "红色连衣裙 & 露乳沟"
   },
   {
     "id": "1741157356518",
@@ -3216,7 +3660,9 @@
     "traits": [
       "sleeveless"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black shirt, 白色斗篷, spear, black pencil skirt, 无袖, loose clothes, black chinese armor",
+    "name_zh": "Black Shirt & 白色斗篷"
   },
   {
     "id": "1741157442667",
@@ -3230,7 +3676,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(fur hat:1.1), red headwear, brown gloves, 深红色外套, 毛边, buttons, (holding flintlock:1.2), (renaissance period:1.1), gunfire, bracket, crossbody tool belt",
+    "name_zh": "(Fur Hat:1.1) & Red Headwear"
   },
   {
     "id": "1741157584116",
@@ -3244,7 +3692,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "铠甲, armored dress, banner, 黑色大腿袜, 毛边, gauntlets, holding flag, 大腿袜, 白色连衣裙",
+    "name_zh": "铠甲 & Armored Dress"
   },
   {
     "id": "1741157659012",
@@ -3257,7 +3707,9 @@
     "traits": [
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "knight, no cape, 黑色铠甲, horned helmet, gauntlets, armored boots, full armor",
+    "name_zh": "Knight & No Cape"
   },
   {
     "id": "1741157746061",
@@ -3273,7 +3725,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "铠甲, armored dress, 黑色手套, black legwear, chain, 毛边, gauntlets, greaves, helmet, 夹克, thigh boots, open jacket, jacket on shoulders",
+    "name_zh": "铠甲 & Armored Dress"
   },
   {
     "id": "1741158002664",
@@ -3288,7 +3742,9 @@
       "apron",
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "cleavage cutout, 露肩, corset, dirndl, frilled hairband, german clothes, (light green dress, long dress:1.2), waist apron, 白色大腿袜, wrist scrunchie",
+    "name_zh": "Cleavage Cutout & 露肩"
   },
   {
     "id": "1741158090284",
@@ -3302,7 +3758,9 @@
       "leather",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(european clothing, celtic:1.1), red tunic, feather hair ornaments, (bard:1.1), 荷叶边, tool belt, bag, scabbard, 领巾, puff sleeves, vertical striped sleeves, brown leather vest, hat, (playing harp:1.1), 连衣裙, pattern trim clothin, knee boots",
+    "name_zh": "(European Clothing & Celtic:1.1)"
   },
   {
     "id": "1741158171829",
@@ -3313,7 +3771,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black bow, brown capelet, brown cloak, brown hoodie, brown skirt, capelet, hood up, hooded capelet, knee strap, red shawl, single thighhigh, white shirt",
+    "name_zh": "Black Bow & Brown Capelet"
   },
   {
     "id": "1741158299952",
@@ -3327,7 +3787,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "holding polearm, (armor under clothes:1.2), sword, sheath, chainmail, waist curtains, 盆骨帘, breast curtains, cross, tunic, (war nun:1.1), 铠甲, holding shield, spear, belt, 披风, scabbard, sheathed, knight, 白色披风, 手套, gauntlets",
+    "name_zh": "Holding Polearm & (Armor Under Clothes:1.2)"
   },
   {
     "id": "1741158432783",
@@ -3343,7 +3805,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "黑色连衣裙, short dress, 修女, 黑色靴子, 白色连裤袜, black capelet, black headwear, black bow, belt, bowtie, cross, habit",
+    "name_zh": "黑色连衣裙 & Short Dress"
   },
   {
     "id": "1741158801502",
@@ -3355,7 +3819,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(fire keeper \\(cosplay\\):1.3), covered eyes, eye mask, black see-through dress, 暴露服饰, black bodystocking, 透视, 黑色披风, black capelet, 项圈, pendant",
+    "name_zh": "(Fire Keeper \\(Cosplay\\):1.3) & Covered Eyes"
   },
   {
     "id": "1741193138261",
@@ -3372,7 +3838,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "铠甲, shield, polearm, helmet, holding weapon, pauldrons, shoulder armor, gauntlets, holding polearm, looking at viewer, greaves, clothing cutout, holding shield, armored boots, earrings, covered navel, spear, 黑色紧身连体衣, 露乳沟, shoulder spikes, vambraces, gorget, 灰色大腿袜, breastplate, highleg, pointy ears, cleavage cutout, highleg leotard, 手套",
+    "name_zh": "铠甲 & Shield"
   },
   {
     "id": "1741193225818",
@@ -3387,7 +3855,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "full armor, white tabard, long sleeves, gold trim, white side capelet, dark side shoulder armor, 黑色手套, argyle, belt, layered dress, thigh boots, holding greatsword",
+    "name_zh": "Full Armor & White Tabard"
   },
   {
     "id": "1741196459918",
@@ -3396,7 +3866,9 @@
     "tags": "holding staff, mage staff, priest, black bodystocking, (white tabard:1.1), shiny clothes, priest hat,",
     "categories": [],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "holding staff, mage staff, priest, black bodystocking, (white tabard:1.1), shiny clothes, priest hat",
+    "name_zh": "Holding Staff & Mage Staff"
   },
   {
     "id": "1741196470555",
@@ -3410,7 +3882,9 @@
       "lace",
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "holding lantern, 黑色手套, blue brooch, 黑色连衣裙, white headwear, lace gloves, puffy short sleeves, lolita fashion, thigh strap, blue gemstone, cowlick, 荷叶边, white bow",
+    "name_zh": "Holding Lantern & 黑色手套"
   },
   {
     "id": "1741196616998",
@@ -3423,7 +3897,9 @@
     "traits": [
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black hood, (hood up, hood covered face:1.2), big hood, black robe, long dress, black thigh boots, long sleeve, (knight's helmet:0.9), lantern",
+    "name_zh": "Black Hood & (Hood Up"
   },
   {
     "id": "1741196755646",
@@ -3437,7 +3913,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(slime girl, liquid skin, membrane \\(anatomy\\), red skin, red wings, blood:1.2), holding scythe, red scythe, blood scythe, torn clothes, navel, budget sarashi, 黑色连衣裙, gothic lolita, cross-laced clothes, 露肩",
+    "name_zh": "(Slime Girl & Liquid Skin"
   },
   {
     "id": "1741196911679",
@@ -3453,7 +3931,9 @@
       "gloves",
       "high heels"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "hitodama, (black dress:1.3), lace trim dress, scythe, wings, pantylines, chain, (claws:1.2), (skull:1.2), green fire, gauntlets, (claws gloves:1.2), capri pants, 高跟鞋, (burning green fire skull:1.3), totenkopf, earrings, (flaming weapon:0.65), (levitation:1.3), (green aura:1.3), (aura surrounding:1.3), (green fire on scythe:1.3), (demonic powers:1.3), magical, green fire, dark aura, (holding scythe:1.3)",
+    "name_zh": "Hitodama & (Black Dress:1.3)"
   },
   {
     "id": "1741197111857",
@@ -3466,7 +3946,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(wolf hat:1.2), (holding wooden staff:1.1), magic on staff, bare shoulder, 披风, vest, loincloth, patterned top, patterned clothing, 项链, fringe trim, pattern trim, (sylvan girl:1.2), (face tattoo:1.1), very long braid, pattern trim, crossbody",
+    "name_zh": "(Wolf Hat:1.2) & (Holding Wooden Staff:1.1)"
   },
   {
     "id": "1741197226702",
@@ -3477,7 +3959,9 @@
       "角色扮演/奇幻 (Fantasy & Cosplay)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(antlers:1.2), armband, 铠甲, arrow \\(projectile\\), bow \\(weapon\\), breastplate, brown belt, chiton, hair bun, holding bow\\(weapon\\), quiver, single glove",
+    "name_zh": "(Antlers:1.2) & Armband"
   },
   {
     "id": "1741197343891",
@@ -3492,7 +3976,9 @@
       "boots",
       "short shorts"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "brown capelet, (green tube top:1.1), single fingerless glove, bandged wrist, bandaged hand, navel, short shorts, midriff, (thigh cutout:1.3), (black pantyhose, thigh inner vent:1.2), (toeless footwear, open heel boots, toes:1.3), feather trim",
+    "name_zh": "Brown Capelet & (Green Tube Top:1.1)"
   },
   {
     "id": "1741197542632",
@@ -3505,7 +3991,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "diamond \\(shape\\), white flower on headdress, (pure white shawl:1.2), (silver head chain:1.1), 项链, lace choker, ring, hood up, forehead jewel, earrings, crystal ball",
+    "name_zh": "Diamond \\(Shape\\) & White Flower On Headdress"
   },
   {
     "id": "1741197656468",
@@ -3519,7 +4007,9 @@
       "lace",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black veil, (fortune teller:1.2), single bare shoulder, collarbone, (crystal ball:1.2), pendant necklace, long sleeves with intricate patterns, naked poncho, starry sky print black poncho",
+    "name_zh": "Black Veil & (Fortune Teller:1.2)"
   },
   {
     "id": "1741197734822",
@@ -3535,7 +4025,9 @@
       "pantyhose",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "pantyhose under shorts, 露肩, purple veil, 露乳沟, shorts, 可拆卸袖套, 紫色连衣裙, thigh boots, magical crystal ball",
+    "name_zh": "Pantyhose Under Shorts & 露肩"
   },
   {
     "id": "1741197994498",
@@ -3544,7 +4036,9 @@
     "tags": "helmet, (devil tattoo:1.1), (walking, blue fire, holding sword:1.1), (sword glowing:1.2), chains, (wearing tattered clothes:1.1), (torn cloak:1.2), soul,",
     "categories": [],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "helmet, (devil tattoo:1.1), (walking, blue fire, holding sword:1.1), (sword glowing:1.2), chains, (wearing tattered clothes:1.1), (torn cloak:1.2), soul",
+    "name_zh": "Helmet & (Devil Tattoo:1.1)"
   },
   {
     "id": "1741198084045",
@@ -3555,7 +4049,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "raven, blood, gothic dress, lantern, (giant scythe:1.1)",
+    "name_zh": "Raven & Blood"
   },
   {
     "id": "1741198209124",
@@ -3566,7 +4062,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "cleavage cutout, gothic lolita style, lolita hairband, lolita fashion, black shoes, holding (huge:1.1) scythe \\(weapon\\)",
+    "name_zh": "Cleavage Cutout & Gothic Lolita Style"
   },
   {
     "id": "1741198312289",
@@ -3579,7 +4077,9 @@
     "traits": [
       "silk"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(blue roses, pocket watch, gorgeous:1.2), high slit silk evening gown, transparent evening gown, low cut, transparent gown, top hat, monocle, death scythe, huge scythe, red blade, golden leg ornaments",
+    "name_zh": "(Blue Roses & Pocket Watch"
   },
   {
     "id": "1741198498520",
@@ -3594,7 +4094,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "hair clips, black robe, fur collar, black long tabard, long skirt, 靴子, gold trim, belt, long sleeves, side cape, 黑色手套",
+    "name_zh": "Hair Clips & Black Robe"
   },
   {
     "id": "1741198703729",
@@ -3609,7 +4111,9 @@
       "glasses",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black-framed eyewear, black shirt, 连衣裙, 眼镜, 绿色连衣裙, high collar, holding wand, long sleeves, wide sleeves, wizard hat",
+    "name_zh": "Black-Framed Eyewear & Black Shirt"
   },
   {
     "id": "1741198960055",
@@ -3627,7 +4131,9 @@
       "sleeveless",
       "silk"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "tiara, light blue gem, pendant, 项链, lace trimmed black stockings, 吊袜带, 肘部手套, (side silk, sleeveless dress, 半身裙, long cape, robe, black hood, black mouth veil, armguard:1.2), purple energy power, holding dagger",
+    "name_zh": "Tiara & Light Blue Gem"
   },
   {
     "id": "1741199096012",
@@ -3642,7 +4148,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(wing collar:1.2), (green lining, ribbed sweater, beige sweater:1.1), wide sleeves, large hat, black witch hat, black robes, green hat bow, green ribbed necktie, 灰色半身裙, lowleg skirt, 百褶裙, white shirt, black thighhigh",
+    "name_zh": "(Wing Collar:1.2) & (Green Lining"
   },
   {
     "id": "1741199188884",
@@ -3656,7 +4164,9 @@
     "traits": [
       "leather"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "necromancer, wizard, holding a staff, skull staff, (hooded:1.2), (one shoulder cape:1.1), (black shoulder armor with gold trim:1.1), leather armguard, (chain mail lining:1.1), (brown leather-armor vest:1.1), 针织开衫, 红色领巾, (edge pattern trim clothing:1.2), long sleeves, tool belt",
+    "name_zh": "Necromancer & Wizard"
   },
   {
     "id": "1741199308482",
@@ -3668,7 +4178,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "bishop, (formal white bishop dress:1.1), (white bishop coat:1.2), white mage, 白色披风, 可拆卸袖套, long sleeves, ring, belt, formal dress, (clear crystal mage staff made by blue jade with awesome decoration:1.2), holding mage staff",
+    "name_zh": "Bishop & (Formal White Bishop Dress:1.1)"
   },
   {
     "id": "1741199456578",
@@ -3682,7 +4194,9 @@
       "thighhighs",
       "garter belt"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(red sleeves:1.2), 可拆卸袖套, long frilled sleeves, wide sleeves, ribbed sleeves, 红色吊袜带, red garter straps, (white shirt, covered navel:1.3), 白色大腿袜, black capelet, short capelet, black hairband, 红色百褶裙, frilled skirt, gold trim, earrings, (red mage staff:1.2)",
+    "name_zh": "(Red Sleeves:1.2) & 可拆卸袖套"
   },
   {
     "id": "1741199548572",
@@ -3696,7 +4210,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "gorgeous western dresses, complex costume design. elegant style, lace and accessories, jewelry details, contrast color, witch hat, red rose elements, knolling layout, many parts",
+    "name_zh": "Gorgeous Western Dresses & Complex Costume Design. Elegant Style"
   },
   {
     "id": "1741199803974",
@@ -3711,7 +4227,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(black witch hat, black coat:1.2), (black fingerless gloves:1.1), blouse, undone necktie, denim shorts, white shirt, big bag, shoulder bag",
+    "name_zh": "(Black Witch Hat & Black Coat:1.2)"
   },
   {
     "id": "1741199947759",
@@ -3726,7 +4244,9 @@
       "gloves",
       "glasses"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(red witch hat:1.2), brown nails, fingerless gloves, green-tinted eyewear, sunglasses, navel, shorts, crop top, chain, ring",
+    "name_zh": "(Red Witch Hat:1.2) & Brown Nails"
   },
   {
     "id": "1741200048699",
@@ -3738,7 +4258,9 @@
       "ribbon",
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black gothic lolita fashion, holding white giant hammer \\(weapon\\), wings \\(blurred\\), 白色蕾丝, 粉色荷叶边, ribbons, pink accessories",
+    "name_zh": "Black Gothic Lolita Fashion & Holding White Giant Hammer \\(Weapon\\)"
   },
   {
     "id": "1741200142884",
@@ -3752,7 +4274,9 @@
       "thighhighs",
       "high heels"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "black nails, asymmetrical legwear, 黑色项圈, bridal gauntlets, clothing cutout, 可拆卸袖套, earrings, groin, hair flower, 发饰, 高跟鞋, highleg leotard, 紧身连体衣, mismatched legwear, navel piercing, pubic tattoo, sidelocks, single thigh boot, thigh gap, 大腿袜, waist cape",
+    "name_zh": "Black Nails & Asymmetrical Legwear"
   },
   {
     "id": "1741200271400",
@@ -3770,7 +4294,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "mecha musume, body armor, 白色铠甲, 黑色铠甲, chest tattoo, heart tattoo, 大腿袜, high heel boots, thigh boots, center opening, 肘部手套, see-through skirt, collarbone, navel, showgirl skirt, chest jewel, purple print, skindentation, covered navel, 黑色紧身连体衣, glowing energy wings, neon trim",
+    "name_zh": "Mecha Musume & Body Armor"
   },
   {
     "id": "1741200428935",
@@ -3786,7 +4312,9 @@
       "gloves",
       "boots"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(valkyrie:1.2), holding polearm, polearm, 铠甲, armored bodysuit, armored boots, armored gloves, armored skirt, black bodysuit, breastplate, fingerless gloves, hip armor, leg armor, shoulder armor, two-sided capelet",
+    "name_zh": "(Valkyrie:1.2) & Holding Polearm"
   },
   {
     "id": "1741200533670",
@@ -3799,7 +4327,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "feather hair ornament, long fingernails, sharp fingernails, 露肩, 暴露服饰, 白色大腿袜, wrist guards, 盆骨帘, midriff",
+    "name_zh": "Feather Hair Ornament & Long Fingernails"
   },
   {
     "id": "1741200620332",
@@ -3814,7 +4344,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "armlet, bikini armor, bracelet, circlet, earrings, eyelashes, gold chain, 金色项圈, gold trim, green gemstone, head chain, loincloth, navel, neck ring, 项链, 盆骨帘, 红色披风, skindentation, midriff, thigh strap, thighlet, tiara",
+    "name_zh": "Armlet & Bikini Armor"
   },
   {
     "id": "1741200783442",
@@ -3825,7 +4357,9 @@
       "制服/西服 (Uniform & Suit)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "yellow basketball uniform, (the word on clothes that says laker 8:1.2), smile teeth",
+    "name_zh": "Yellow Basketball Uniform & (The Word On Clothes That Says Laker 8:1.2)"
   },
   {
     "id": "1741200872863",
@@ -3838,7 +4372,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "灰色连衣裙, sleevesless, (bandages, torn clothes, bandaged arm, bandaged head, bandaged leg:1.2), anklet, collarbone, no shoes, feet",
+    "name_zh": "灰色连衣裙 & Sleevesless"
   },
   {
     "id": "1741200953044",
@@ -3852,7 +4388,9 @@
       "side slit",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "arm strap, 露肩, 黑色连衣裙, black hands, chain, cracked skin, gradient skin, high collar, holding polearm, hole on body, hood up, hooded dress, impaled, pale skin, 侧开叉",
+    "name_zh": "Arm Strap & 露肩"
   },
   {
     "id": "1741201287324",
@@ -3870,7 +4408,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "holding revolver, 红色围巾, black wide-brimmed hat, silver studs, brown leather jacket, high-collared shirt, adorned with intricate silver embroidery, brown leather gloves, elbows gloves, necktie, dress pants, white shirt, cowboy boots",
+    "name_zh": "Holding Revolver & 红色围巾"
   },
   {
     "id": "1741201394350",
@@ -3888,7 +4428,9 @@
       "sleeveless",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "floral print, bowtie, shoulder armor, 无袖, wrist ribbon, cross necklace, wide sleeves, collared dress, holding weapon, (floating sword, greatsword, huge weapon:1.2), shoulder cutout",
+    "name_zh": "Floral Print & Bowtie"
   },
   {
     "id": "1741201520710",
@@ -3900,7 +4442,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(see-through white ghost costume:1.1), hood up, sleeves past wrists, wide sleeves, white robe, very long dress",
+    "name_zh": "(See-Through White Ghost Costume:1.1) & Hood Up"
   },
   {
     "id": "1741201702524",
@@ -3914,7 +4458,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "露肩, blue headband, feet, ghost, hairclip, hitodama, see-through clothes, skull hair ornament, sleeves past fingers, toes, torn clothes, 白色连衣裙, 白色大腿袜, will-o'-the-wisp \\(mythology\\)",
+    "name_zh": "露肩 & Blue Headband"
   },
   {
     "id": "1741201873491",
@@ -3930,7 +4476,9 @@
       "silk",
       "high heels"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(eyes mask, feather mask:1.2), form fitting suit, silk cape, 高跟鞋, 肘部手套, pearl necklace, hidden wires, gold embroidery, diamond tiara",
+    "name_zh": "(Eyes Mask & Feather Mask:1.2)"
   },
   {
     "id": "1741201885023",
@@ -3945,7 +4493,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "flower over eye, 白色大腿袜, 白色连衣裙, 紫色领巾, purple trim, purple shirt, 白色手套, gauntlets, 白色夹克, close-fitting dress, single slit, long sleeves, 白色半身裙",
+    "name_zh": "Flower Over Eye & 白色大腿袜"
   },
   {
     "id": "1741201996903",
@@ -3960,7 +4510,9 @@
       "ribbon",
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "frilly white dress, yellow ribbons, brown capelet with hood, stuffed sheep toy, 白色内裤, 白色长筒袜, (brown medieval peasant shoes:1.1), holding basket",
+    "name_zh": "Frilly White Dress & Yellow Ribbons"
   },
   {
     "id": "1741202239510",
@@ -3975,7 +4527,9 @@
       "apron",
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "围裙, wolf ears, 连衣裙, fang, fingernails, red hooded cloak, red frilly dress, sharp fingernails, stuffed sheep toy, 白色内裤, 白色长筒袜, holding basket",
+    "name_zh": "围裙 & Wolf Ears"
   },
   {
     "id": "1741202318742",
@@ -3986,7 +4540,9 @@
       "制服/西服 (Uniform & Suit)"
     ],
     "traits": [],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "red plugsuit, bodysuitskin tight, interface headset, pilot suit, no shoes, covered feet",
+    "name_zh": "Red Plugsuit & Bodysuitskin Tight"
   },
   {
     "id": "1741202411628",
@@ -4004,7 +4560,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "迷你裙, sleeveless shirt, hair bow, 黑色半身裙, 百褶裙, white shirt, black sailor collar, 黑色大腿袜, thigh boots, black footwear, zettai ryouiki, white bow, white hairband, collared shirt, sailor shirt, 可拆卸袖套, black sleeves, hairclip, number tattoo, arm tattoo, shoulder tattoo",
+    "name_zh": "迷你裙 & Sleeveless Shirt"
   },
   {
     "id": "1741202593751",
@@ -4021,7 +4579,9 @@
       "collar",
       "sleeveless"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "double-breasted, 可拆卸袖套, sleeves past wrists, 白色连衣裙, vertical-striped pantyhose, blue necktie, 白色连裤袜, 露肩, hair flower, flower wreath, long sleeves, white bow, white footwear, footwear bow, sleeveless dress, white sleeves, buttons, sailor collar",
+    "name_zh": "Double-Breasted & 可拆卸袖套"
   },
   {
     "id": "1741202714039",
@@ -4038,7 +4598,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "黑色半身裙, 百褶裙, white shirt, fingerless gloves, 黑色手套, 黑色连裤袜, brown pantyhose, id card, black necktie, collared shirt, open jacket, pocket, 制服, high-waist skirt, shirt tucked in, 绿色外套, coat on shoulders, thighband pantyhose",
+    "name_zh": "黑色半身裙 & 百褶裙"
   },
   {
     "id": "1741202878700",
@@ -4051,7 +4613,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "露肩, collarbone, strapless, 蓝色比基尼, armlet, blue gemstone, crystal bikini, gem bikini",
+    "name_zh": "露肩 & Collarbone"
   },
   {
     "id": "1741203071464",
@@ -4064,7 +4628,9 @@
     "traits": [
       "side slit"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "floral print white kimono, floral print white thighhigh, hair flower, sash, obi, long sleeves, wide sleeves, 侧开叉, tabi",
+    "name_zh": "Floral Print White Kimono & Floral Print White Thighhigh"
   },
   {
     "id": "1741203191326",
@@ -4079,7 +4645,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images3"
+    "folder": "images3",
+    "tags_zh": "(reverse bunnysuit:1.2), heart pasties, 白色手套, thigh strap, topless",
+    "name_zh": "(Reverse Bunnysuit:1.2) & Heart Pasties"
   },
   {
     "id": "1741203945598",
@@ -4091,7 +4659,9 @@
       "泳装/内衣 (Swimsuit & Lingerie)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "slingshot swimsuit",
+    "name_zh": "Slingshot Swimsuit"
   },
   {
     "id": "1741204837034",
@@ -4104,7 +4674,9 @@
     "traits": [
       "thighhighs"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "蓝色比基尼, 蓝色大腿袜, 毛边, hood up, long sleeves, navel, no shoes, stirrup legwear, stomach, toes, underboob",
+    "name_zh": "蓝色比基尼 & 蓝色大腿袜"
   },
   {
     "id": "1741319423719",
@@ -4117,7 +4689,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "heart shaped choker, black langerie thigh highs, black langerie elbow gloves, black skimpy bikini",
+    "name_zh": "Heart Shaped Choker & Black Langerie Thigh Highs"
   },
   {
     "id": "1741319599432",
@@ -4133,7 +4707,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "sailor collar, side-tie bikini bottom, striped bikini, striped thighhighs",
+    "name_zh": "Sailor Collar & Side-Tie Bikini Bottom"
   },
   {
     "id": "1741320494565",
@@ -4144,7 +4720,9 @@
       "泳装/内衣 (Swimsuit & Lingerie)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "square bikini, strapless bikini",
+    "name_zh": "Square Bikini & Strapless Bikini"
   },
   {
     "id": "1741320726110",
@@ -4159,7 +4737,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "fake cat ears, fake cat tail, 微型比基尼, paw gloves, 白色大腿袜, 白色比基尼",
+    "name_zh": "Fake Cat Ears & Fake Cat Tail"
   },
   {
     "id": "1741320828701",
@@ -4171,7 +4751,9 @@
       "泳装/内衣 (Swimsuit & Lingerie)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "cat costume, torn swimsuit, frilled legwear, hairclip, hairband",
+    "name_zh": "Cat Costume & Torn Swimsuit"
   },
   {
     "id": "1741320907443",
@@ -4187,7 +4769,9 @@
       "miniskirt",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "white side-tie bikini, 侧绑带内裤, white cloth cape, big cape, 白色百褶裙, 迷你裙, hypotenuse skirt, white bridal gloves",
+    "name_zh": "White Side-Tie Bikini & 侧绑带内裤"
   },
   {
     "id": "1741321022038",
@@ -4201,7 +4785,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "cat lingerie, cat cutout, clothing cutout, neck bell, white bra, jingle bell, 白色内裤, cat ear panties, 侧绑带内裤, frilled bra, 白色项圈, wrist cuffs, cat ear thighhighs, white thighthighs",
+    "name_zh": "Cat Lingerie & Cat Cutout"
   },
   {
     "id": "1741321272933",
@@ -4215,7 +4801,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "shrug \\(clothing\\), no bra, long sleeves, cross pasties, highleg panties, 黑色大腿袜",
+    "name_zh": "Shrug \\(Clothing\\) & No Bra"
   },
   {
     "id": "1741321679134",
@@ -4231,7 +4819,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "项圈, (black bodystocking:1.2), black lace panties, black lace bra, 黑色手套, see-through bodystocking",
+    "name_zh": "项圈 & (Black Bodystocking:1.2)"
   },
   {
     "id": "1741321800907",
@@ -4248,7 +4838,9 @@
       "tie",
       "halterneck"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "吊袜带, 白色内裤, 白色大腿袜, white bra, 白色手套, lolita hairband, 挂脖, criss-cross halter, veil",
+    "name_zh": "吊袜带 & 白色内裤"
   },
   {
     "id": "1741322040877",
@@ -4263,7 +4855,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "bead necklace, (jewelry:1.1), (gem chain:1.2), (jewelry on nipples:1.1), covered nipples, waist chain, 侧乳, groin, (venus bikini:1.1), (slingshot swimsuit:1.1)",
+    "name_zh": "Bead Necklace & (Jewelry:1.1)"
   },
   {
     "id": "1741322232929",
@@ -4280,7 +4874,9 @@
       "gloves",
       "ribbon"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(bridal lingerie:1.1), 肘部手套, 白色大腿袜, 荷叶边, navel, hat ribbon, garter straps, corset, 露乳沟, highleg, cross-laced clothes, frilled choker, 白色项圈, 白色手套",
+    "name_zh": "(Bridal Lingerie:1.1) & 肘部手套"
   },
   {
     "id": "1741322414586",
@@ -4294,7 +4890,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "barefoot, hair bow, red bow, toeless legwear, 黑色大腿袜, single thighhigh, asymmetrical legwear, detached collar, single detached sleeve, asymmetrical sleeves, 黑色比基尼, 白色比基尼, mismatched bikini, strapless leotard",
+    "name_zh": "Barefoot & Hair Bow"
   },
   {
     "id": "1741322579846",
@@ -4307,7 +4905,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "naked suspender, navel, center opening, white capelet, (see-through:1.1), lace trim",
+    "name_zh": "Naked Suspender & Navel"
   },
   {
     "id": "1741322665098",
@@ -4322,7 +4922,9 @@
       "latex",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "bustier, thigh strap, cross-laced clothes, (thong:1.1), navel, latex gloves, shiny, 乳胶, latex boots, garter straps",
+    "name_zh": "Bustier & Thigh Strap"
   },
   {
     "id": "1741322833524",
@@ -4338,7 +4940,9 @@
       "ribbon",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "项链, 露乳沟, garter straps, 白色大腿袜, 露肩, hair ribbon, hair bow, collarbone, frilled leotard",
+    "name_zh": "项链 & 露乳沟"
   },
   {
     "id": "1741322841290",
@@ -4349,7 +4953,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "naked poncho, (see-through silhouette:1.2)",
+    "name_zh": "Naked Poncho & (See-Through Silhouette:1.2)"
   },
   {
     "id": "1741323545031",
@@ -4368,7 +4974,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "babydoll, 白色大腿袜, white bridal gauntlets, 露肩, 吊袜带, 荷叶边, collarbone, 项圈, bridal veil, 透视, navel, 白色内裤, frilled panties, 可拆卸袖套, 肘部手套, white rose hair flower, lace trim, blue bow, bow panties",
+    "name_zh": "Babydoll & 白色大腿袜"
   },
   {
     "id": "1741323668307",
@@ -4386,7 +4994,9 @@
       "collar",
       "garter belt"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "nightgown, collarbone, navel, 黑色大腿袜, 黑色项圈, 吊袜带, 透视, 灰色内裤, grey bra",
+    "name_zh": "Nightgown & Collarbone"
   },
   {
     "id": "1741390940713",
@@ -4403,7 +5013,9 @@
       "tie",
       "translucent"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "sleeves past wrists, oversized clothes, (dinosaur hood, plastic:1.1), 露乳沟, see-through costume, (transparent raincoat, transparent clothes, translucent costume:1.1), no bra, no panties, animal hood, dragon hood, long dress",
+    "name_zh": "Sleeves Past Wrists & Oversized Clothes"
   },
   {
     "id": "1741390946266",
@@ -4416,7 +5028,9 @@
     "traits": [
       "lace"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "naked cloak, under covers, see-through cloak, 透视, see-through silhouette, oversized clothes, floral print, lace-trimmed, naked poncho, nude",
+    "name_zh": "Naked Cloak & Under Covers"
   },
   {
     "id": "1741390950774",
@@ -4425,7 +5039,9 @@
     "tags": "babydoll, criss-cross halter, transparent clothes strap slip,",
     "categories": [],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "babydoll, criss-cross halter, transparent clothes strap slip",
+    "name_zh": "Babydoll & Criss-Cross Halter"
   },
   {
     "id": "1741390954616",
@@ -4443,7 +5059,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "透视, collarbone, 露乳沟, navel, underwear only, babydoll, 露肩, 黑色项圈, 黑色手套, 黑色内裤, crystal earrings, 吊袜带, bridal gauntlets, 黑色大腿袜",
+    "name_zh": "透视 & Collarbone"
   },
   {
     "id": "1741390958642",
@@ -4458,7 +5076,9 @@
       "ribbon",
       "off-shoulder"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(black nightgown:1.1), (off-shoulder:1.1), tight, spaghetti strap, 露乳沟, (frilled, frills:1.1), long dress, long sleeves, 丝带/蝴蝶结, 深V领, center opening, (transparent:1.1), 透视, sleepwear, covered navel, thong",
+    "name_zh": "(Black Nightgown:1.1) & (Off-Shoulder:1.1)"
   },
   {
     "id": "1741390962497",
@@ -4473,7 +5093,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(see-through taut dress:1.2), (stomach, capelet, naked overall:1.1), 露乳沟, (long wide sleeves, underboob:1.1), no panties, 荷叶边, shiny clothes, naked see-through tape, (navel:1.1), long dress, see-through silhouette, no bra",
+    "name_zh": "(See-Through Taut Dress:1.2) & (Stomach"
   },
   {
     "id": "1741390966697",
@@ -4485,7 +5107,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "pasties, bandaids on nipples, navel, shrug \\(clothing\\), paw gloves, x hair ornament, hood up, long sleeves, stomach, reverse outfit, bandaid on pussy, hairclip, fake cat ears, cat hood",
+    "name_zh": "Pasties & Bandaids On Nipples"
   },
   {
     "id": "1741392060041",
@@ -4502,7 +5126,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "金色比基尼, 项链, untied ribbon, white shirt, visor cap, criss-cross halter, 金色靴子, 侧乳",
+    "name_zh": "金色比基尼 & 项链"
   },
   {
     "id": "1741392064398",
@@ -4513,7 +5139,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "virgin destroyer sweater, midriff, 侧乳, thigh gap, navel, 露肩, clavicle",
+    "name_zh": "Virgin Destroyer Sweater & Midriff"
   },
   {
     "id": "1741392068120",
@@ -4528,7 +5156,9 @@
     "traits": [
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "无袖, 露乳沟, 连衣裙, cleavage cutout, turtleneck, 毛衣, 露肩, virgin killer sweater, 白色毛衣",
+    "name_zh": "无袖 & 露乳沟"
   },
   {
     "id": "1741392072358",
@@ -4545,7 +5175,9 @@
       "latex",
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "露乳沟, sling bikini top, o-ring top, o-ring thigh strap, o-ring dress, 紫色乳胶, skindentation, clothing cutout, 暴露服饰, shiny clothes, microdress, latex dress, waist cutout, navel, shoulder, bridal gauntlets, 肘部手套, short dress, 紫色大腿袜",
+    "name_zh": "露乳沟 & Sling Bikini Top"
   },
   {
     "id": "1741392075927",
@@ -4561,7 +5193,9 @@
       "tie",
       "glasses"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "sunglasses, 毛衣, 黑色夹克, coat on shoulders, 黑色内裤, earrings, round eyewear, highleg, 黑色大腿袜, 可拆卸袖套, clothing cutout, long sleeves, turtleneck, 灰色大腿袜",
+    "name_zh": "Sunglasses & 毛衣"
   },
   {
     "id": "1741392080024",
@@ -4578,7 +5212,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "大腿袜, navel, 黑色手套, stomach, 高跟鞋, covered nipples, glowing, black thigh boots, 黑色外套, open coat, pasties, two-sided fabric, maebari, nude",
+    "name_zh": "大腿袜 & Navel"
   },
   {
     "id": "1741392083871",
@@ -4597,7 +5233,9 @@
       "tie",
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "maid headdress, (white virgin killer sweater:1.2), sideless outfit, (white naked tabard:0.9), no bra, turtleneck, 裸臂, 无袖, 白色暴露服饰, no panties, hair ribbon",
+    "name_zh": "Maid Headdress & (White Virgin Killer Sweater:1.2)"
   },
   {
     "id": "1741393034061",
@@ -4611,7 +5249,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "white bandeau, 白色大腿袜, 黑色手套, black shorts, micro shorts, partially fingerless gloves, turtleneck, underboob",
+    "name_zh": "White Bandeau & 白色大腿袜"
   },
   {
     "id": "1741393040801",
@@ -4629,7 +5269,9 @@
       "tie",
       "miniskirt"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "see-through crop top, cleavage cutout, shoulder cutout, 黑色大腿袜, (miniskirt:1.2), short sleeves, navel, garter straps, open dress, no panties, underboob",
+    "name_zh": "See-Through Crop Top & Cleavage Cutout"
   },
   {
     "id": "1741393044759",
@@ -4646,7 +5288,9 @@
       "tie",
       "halterneck"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "乳胶, purple bodycon, micro bodycon, 深V领, see-through clothes, tight dress, 项圈, 挂脖, spaghetti strap, side-tie, bridal gauntlets, 光腿, thigh strap, navel cutout, navel piercing, handbag",
+    "name_zh": "乳胶 & Purple Bodycon"
   },
   {
     "id": "1741393048351",
@@ -4665,7 +5309,9 @@
       "short shorts",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "open clothes, navel, hood up, animal hood, collarbone, sleeves past wrists, 黑色连帽衫, 黑色连裤袜, brown pantyhose, short shorts, unzipped bottom, no panties, leather boots",
+    "name_zh": "Open Clothes & Navel"
   },
   {
     "id": "1741393051718",
@@ -4683,7 +5329,9 @@
       "short shorts",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(elbow gloves:1.1), belt, 黑色夹克, chain necklace, collarbone, cropped shirt, hoop earrings, open jacket, 内裤, puffy long sleeves, short shorts, sleeves past wrists, stud earrings, (pink pasties:1.15), heart pasties",
+    "name_zh": "(Elbow Gloves:1.1) & Belt"
   },
   {
     "id": "1741393055673",
@@ -4695,7 +5343,9 @@
       "礼服/裙装 (Dress & Gown)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "funeral dress, fur coat, armpit cutout, waist cutout, shoulder cutout, navel cutout, center opening, ass cutout, stomach cutout, thigh cutout",
+    "name_zh": "Funeral Dress & Fur Coat"
   },
   {
     "id": "1741393059576",
@@ -4711,7 +5361,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "粉色连帽衫, pink (fox hood:1.1), long sleeves, (reverse bunnysuit:1.2), no panties, navel, x pasties, pants, naked costume, bandaid on nipples, bandaid on pussy",
+    "name_zh": "粉色连帽衫 & Pink (Fox Hood:1.1)"
   },
   {
     "id": "1741404073460",
@@ -4727,7 +5379,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "off shoulder, (breasts out:1.1), naked shirt, black shirt, (see-through shirt, no bra:1.1), cross pasties, sleeves past fingers, oversized clothes, see-through silhouette, collarbone, shiny clothes",
+    "name_zh": "Off Shoulder & (Breasts Out:1.1)"
   },
   {
     "id": "1741404077630",
@@ -4744,7 +5398,9 @@
       "leather",
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "cross pasties, leotard top, no bra, (see-through leotard:1.1), brown leotard, turtleneck leotard, navel, groin, single thighhigh, no panties, groin, leather shorts, (sleeveless, open shorts:1.2)",
+    "name_zh": "Cross Pasties & Leotard Top"
   },
   {
     "id": "1741404081262",
@@ -4761,7 +5417,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "black collar, (transparent skirt:1.2), no panties, (transparent shoes:1.2), (see-through shirt, see-through skirt:1.2), 光腿, see-through shoes, no underwear, heart pasties",
+    "name_zh": "Black Collar & (Transparent Skirt:1.2)"
   },
   {
     "id": "1741404084907",
@@ -4780,7 +5438,9 @@
       "sleeveless",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "black rabbit ears, black neckerchief, 白色肘部手套, 红色大腿袜, 白色大腿袜, striped thighhighs, hairband, white serafuku, blue collar, blue microdress, sleeveless shirt, crop top, underboob, 白色手套, blue microskirt, black highleg panties, grey footwear",
+    "name_zh": "Black Rabbit Ears & Black Neckerchief"
   },
   {
     "id": "1741404088340",
@@ -4794,7 +5454,9 @@
       "thighhighs",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "transparent leotard, 大腿袜, highleg leotard, long sleeves, sailor collar",
+    "name_zh": "Transparent Leotard & 大腿袜"
   },
   {
     "id": "1741404092169",
@@ -4809,7 +5471,9 @@
     "traits": [
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "wrist cuffs, sailor bikini, 蓝色半身裙, 蓝色比基尼, white sailor collar, crop top, bikini skirt, 蓝色项圈, microskirt, blue sailor collar",
+    "name_zh": "Wrist Cuffs & Sailor Bikini"
   },
   {
     "id": "1741404095644",
@@ -4828,7 +5492,9 @@
       "bare legs",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "裸臂, 光腿, 露肩, bare thighs, 黑色半身裙, crop top, crop top overhang, 蕾丝, lace panties, midriff, navel, neckerchief, no bra, pleated microskirt, 百褶裙, sailor collar, 侧绑带内裤, 无袖, underboob, 制服, 白色内裤",
+    "name_zh": "裸臂 & 光腿"
   },
   {
     "id": "1741404860184",
@@ -4845,7 +5511,9 @@
       "lace",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "midriff, groin, school uniform, 黑色夹克, white see-through shirt, black lace bra, (loose necktie:1.1)",
+    "name_zh": "Midriff & Groin"
   },
   {
     "id": "1741404864225",
@@ -4857,7 +5525,9 @@
       "thighhighs",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "garter straps, navel, pasties, shibari, 大腿袜",
+    "name_zh": "Garter Straps & Navel"
   },
   {
     "id": "1741404867471",
@@ -4870,7 +5540,9 @@
     "traits": [
       "apron"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "naked apron, bodystocking under clothes, see-through clothes",
+    "name_zh": "Naked Apron & Bodystocking Under Clothes"
   },
   {
     "id": "1741404871683",
@@ -4885,7 +5557,9 @@
       "thighhighs",
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(naked apron:1.1), single thighhigh, paw gloves, 白色大腿袜, arm garter, frilled apron, 白色围裙",
+    "name_zh": "(Naked Apron:1.1) & Single Thighhigh"
   },
   {
     "id": "1741404874983",
@@ -4902,7 +5576,9 @@
       "tie",
       "garter belt"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "covered nipples, naked, oversize cloak, hood up, 微型比基尼, black lace panties, 黑色大腿袜, garter straps, 吊袜带",
+    "name_zh": "Covered Nipples & Naked"
   },
   {
     "id": "1741404878868",
@@ -4920,7 +5596,9 @@
       "miniskirt",
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "红色手套, santa hat, santa costume, holding sack, midriff, 毛边, 露肩, 红色半身裙, belt, fur-trimmed gloves, 迷你裙, crop top, navel, red headwear, stomach, 无袖, 红色大腿袜, bell, 项圈, red shirt, 露乳沟",
+    "name_zh": "红色手套 & Santa Hat"
   },
   {
     "id": "1741404882251",
@@ -4937,7 +5615,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "navel, earrings, lingerie, veil, 白色大腿袜, 白色手套, 露乳沟, bridal veil, garter straps, covered nipples, 露肩, highleg, collarbone, thighs, fingerless gloves, 内裤, tiara, 透视, white headflower, 暴露服饰",
+    "name_zh": "Navel & Earrings"
   },
   {
     "id": "1741406080192",
@@ -4954,7 +5634,9 @@
       "tie",
       "halterneck"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "slingshot swimsuit, nude, 夹克, police hat, (black bandeau:1.1), o-ring, 挂脖, 手套, armband, micro shorts, open fly, denim, no panties, single thigh boot, single bare shoulder",
+    "name_zh": "Slingshot Swimsuit & Nude"
   },
   {
     "id": "1741406090630",
@@ -4970,7 +5652,9 @@
       "boots",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "waist bow, red bow, naked ribbon, 红色丝带/蝴蝶结, red collar, animal collar, 白色手套, white footwear, high heel boots, thigh strap, red rose hair flower",
+    "name_zh": "Waist Bow & Red Bow"
   },
   {
     "id": "1741406095092",
@@ -4981,7 +5665,9 @@
       "性感/暴露 (Revealing)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "cleavage cutout, cutout above navel, breasts, chinese knot, cleavage cutout, cutout above navel",
+    "name_zh": "Cleavage Cutout & Cutout Above Navel"
   },
   {
     "id": "1741406099408",
@@ -4996,7 +5682,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "裸臂, 露肩, 蓝色内裤, breast curtains, g-string, navel, 透视, 侧绑带内裤, 侧乳, thong, chinese dress",
+    "name_zh": "裸臂 & 露肩"
   },
   {
     "id": "1741406103429",
@@ -5013,7 +5701,9 @@
       "side slit",
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(floral print china dress, transparent dress, pvc dress, see-through dress:1.2), (transparent high heels, glass high heels:1.1), center opening, underboob cutout, bare pectorals, 露乳沟, off shoulder, covered navel, 侧乳, (sideless outfit:1.1), 露肩, 光腿, 裸臂, 无袖, 侧开叉",
+    "name_zh": "(Floral Print China Dress & Transparent Dress"
   },
   {
     "id": "1741406107717",
@@ -5032,7 +5722,9 @@
       "side slit",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "红色高跟鞋, unworn shoes, single shoe, feet, torn thighhighs, 黑色内裤, 黑色大腿袜, 红色连衣裙, china dress, 盆骨帘, skindentation, garter straps, 露肩, bare back, soles, torn gloves, torn dress, 黑色肘部手套, 侧开叉, blue shawl, hagoromo",
+    "name_zh": "红色高跟鞋 & Unworn Shoes"
   },
   {
     "id": "1741406111761",
@@ -5051,7 +5743,9 @@
       "miniskirt",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "pink necktie, police hat, white headwear, 白色连衣裙, 白色手套, cleavage cutout, 白色大腿袜, 迷你裙, black belt",
+    "name_zh": "Pink Necktie & Police Hat"
   },
   {
     "id": "1741430605430",
@@ -5066,7 +5760,9 @@
       "short shorts",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "long sleeves, white shirt, collared shirt, short shorts, black shorts, sleeves rolled up, shirt tucked in, black corset, latex shorts, latex corset, suspenders",
+    "name_zh": "Long Sleeves & White Shirt"
   },
   {
     "id": "1741502005259",
@@ -5083,7 +5779,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "crop top, naked vest, (clothes around waist:1.2), navel, nude, belt, belt pouch, no panties, fishnet thighhighs, no bra, fingerless gloves, center opening, police uniform, cross pasties, maebari",
+    "name_zh": "Crop Top & Naked Vest"
   },
   {
     "id": "1741502009160",
@@ -5102,7 +5800,9 @@
       "tie",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "露肩, 蓝色内裤, crop top, 肘部手套, hat, 高跟鞋, highleg panties, holster, microskirt, peaked cap, police uniform, 暴露服饰, revolver, skindentation, thigh boots, thigh holster, thigh strap, thong",
+    "name_zh": "露肩 & 蓝色内裤"
   },
   {
     "id": "1741502012420",
@@ -5120,7 +5820,9 @@
       "sleeveless",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "pink necktie, 肘部手套, 黑色手套, 黑色项圈, 黑色紧身连体衣, crotch zipper, 无袖, white shirt, police hat, highleg leotard, collared shirt, policewoman, peaked cap, 侧乳, covered navel, breast pocket, 黑色连裤袜",
+    "name_zh": "Pink Necktie & 肘部手套"
   },
   {
     "id": "1741502015690",
@@ -5137,7 +5839,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "fingerless gloves, police uniform, 黑色大腿袜, thong, 黑色手套, 蓝色夹克, 蓝色内裤, skindentation, police hat, 蓝色紧身连体衣, bow, highleg, long sleeves, cropped jacket",
+    "name_zh": "Fingerless Gloves & Police Uniform"
   },
   {
     "id": "1741502018934",
@@ -5152,7 +5856,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "necktie between breasts, necktie, 比基尼, thigh strap, navel, armband, long sleeves, skindentation, stomach, 露乳沟, 夹克, wrist cuffs, highleg, groin, open clothes, black thighhight",
+    "name_zh": "Necktie Between Breasts & Necktie"
   },
   {
     "id": "1741502022629",
@@ -5166,7 +5872,9 @@
       "pantyhose",
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "barefoot, 黑色比基尼, combat knife, 绿色手套, harness, holstered, lowleg pantyhose, 侧乳, torn pantyhose, underboob, toesless pantyhose",
+    "name_zh": "Barefoot & 黑色比基尼"
   },
   {
     "id": "1741503194745",
@@ -5177,7 +5885,9 @@
     "traits": [
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "load bearing vest, holding automatic rifle, nude, dog tags, magazine \\(weapon\\), waist bag, earset, ammunition pouch, watch, cross pasties, maebari",
+    "name_zh": "Load Bearing Vest & Holding Automatic Rifle"
   },
   {
     "id": "1741503198475",
@@ -5193,7 +5903,9 @@
       "high heels",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "naked poncho, thigh boots, 高跟鞋, naked tabard, naked tape, see-through tabard, see-through poncho, off shoulder, 项圈, 白色手套, nurse cap, shiny clothes, holographic clothing",
+    "name_zh": "Naked Poncho & Thigh Boots"
   },
   {
     "id": "1741503202317",
@@ -5212,7 +5924,9 @@
       "gloves",
       "latex"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "黑色手套, short sleeves, black nurse cap, black latex micro bikini, black microskirt, black cross-laced clothes, skin tight, skindentation, 露乳沟, (sideless outfit:1.1), shiny clothes, garted strap, belt, latex skirt, 白色大腿袜",
+    "name_zh": "黑色手套 & Short Sleeves"
   },
   {
     "id": "1741503205735",
@@ -5227,7 +5941,9 @@
       "lace",
       "garter belt"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "frilled lingerie, pink nurse outfit, lace thighhigh, 吊袜带, holding syringe, red bat wings",
+    "name_zh": "Frilled Lingerie & Pink Nurse Outfit"
   },
   {
     "id": "1741503209303",
@@ -5240,7 +5956,9 @@
       "日常/休闲 (Casual & Daily)"
     ],
     "traits": [],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "白色夹克, nurse cap, harness, chest belt, white harness, o-ring, naked harness, 透明, 透视, shiny clothes, pubic tattoo",
+    "name_zh": "白色夹克 & Nurse Cap"
   },
   {
     "id": "1741503212692",
@@ -5255,7 +5973,9 @@
     "traits": [
       "gloves"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "slingshot swimsuit, nurse cap, 夹克, 白色手套, thigh strap, 白色凉鞋, 露肩, 护士服",
+    "name_zh": "Slingshot Swimsuit & Nurse Cap"
   },
   {
     "id": "1741504123691",
@@ -5273,7 +5993,9 @@
       "miniskirt",
       "latex"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "nurse cap, crop top, 护士服, latex top, cross-laced clothes, 露乳沟, shiny clothes, 迷你裙, fishnet thighhighs",
+    "name_zh": "Nurse Cap & Crop Top"
   },
   {
     "id": "1741504127808",
@@ -5292,7 +6014,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(maid apron, 透视, lace trim, highleg:1.1), white shirt, mini skirt, framed breasts, 盆骨帘, no panties, white thighhihgs, 暴露服饰, 露乳沟, collarbone",
+    "name_zh": "(Maid Apron & 透视"
   },
   {
     "id": "1741504131315",
@@ -5309,7 +6033,9 @@
       "backless",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "(revealing clothes:1.2), 女仆装, metal chain, electronic components, led lights on clothes, transparent fabric, 露背, vibrating elements, temperature sensitive material, see-through skirt, thigh high boots",
+    "name_zh": "(Revealing Clothes:1.2) & 女仆装"
   },
   {
     "id": "1741504135057",
@@ -5330,7 +6056,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "swimsuit maid outfit, 肘部手套, detached collar, red ribbons, 黑色微型比基尼, side tie, waist apron, microskirt, 黑色大腿袜",
+    "name_zh": "Swimsuit Maid Outfit & 肘部手套"
   },
   {
     "id": "1741504138267",
@@ -5347,7 +6075,9 @@
       "gloves",
       "tie"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "maid headdress, (topless:1.1), shrug \\(clothing\\), bowtie, long sleeves, puffy sleeves, 手套, (heart pasties:1.1), (bottomless:1.1), maebari, groin, 黑色大腿袜, 露乳沟, navel",
+    "name_zh": "Maid Headdress & (Topless:1.1)"
   },
   {
     "id": "1741504141870",
@@ -5367,7 +6097,9 @@
       "tie",
       "sleeveless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "navel, 露乳沟, midriff, maid headdress, 黑色半身裙, crop top, 女仆装, 露肩, 裸臂, stomach, 无袖, 荷叶边, lace trim, maid apron, 丝带/蝴蝶结, 项圈, bowtie, 白色围裙, semi-rimless eyewear, green-framed eyewear, waist apron",
+    "name_zh": "Navel & 露乳沟"
   },
   {
     "id": "1741504145472",
@@ -5385,7 +6117,9 @@
       "high heels",
       "backless"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "高跟鞋, 女仆装, 围裙, maid headdress, 黑色大腿袜, 露背装, fingerless gloves, holding handgun",
+    "name_zh": "高跟鞋 & 女仆装"
   },
   {
     "id": "1741504204501",
@@ -5406,7 +6140,9 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "暴露服饰, asymmetrical clothes, maid bikini, frilled bikini, microskirt, 女仆装, maid apron, single leg pantyhose, single black elbow glove, 白色手套, belt buckle, black belt, black bowtie, combat knife, maid headdress, o-ring harness, frilled collar, frilled gloves, frilled thigh strap, o-ring thigh strap, thigh holster",
+    "name_zh": "暴露服饰 & Asymmetrical Clothes"
   },
   {
     "id": "1741505219033",
@@ -5426,7 +6162,9 @@
       "tie",
       "high heels"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "高跟鞋, 白色大腿袜, black footwear, duster, wrist cuffs, maid headdress, 白色内裤, naked apron, 女仆装, 透视, arm garter, 黑色丝带/蝴蝶结, hair ribbon, 侧绑带内裤, 白色围裙",
+    "name_zh": "高跟鞋 & 白色大腿袜"
   },
   {
     "id": "1741505222902",
@@ -5439,7 +6177,9 @@
     "traits": [
       "latex"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "cameltoe, (goggles on head:0.9), black bomber jacket, shiny clothes, unzipped bottom, black pants, pelvic cutout, latex thong, o-ring bottom",
+    "name_zh": "Cameltoe & (Goggles On Head:0.9)"
   },
   {
     "id": "1741505226310",
@@ -5458,7 +6198,9 @@
       "sleeveless",
       "boots"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "thigh boots, 露肩, 露乳沟, chest tattoo, 荷叶边, corset, 迷你裙, 无袖, 肘部手套, 内裤",
+    "name_zh": "Thigh Boots & 露肩"
   },
   {
     "id": "1741505229747",
@@ -5474,7 +6216,9 @@
       "gloves",
       "high heels"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "wedding dress, 白色手套, asymmetrical legwear, single thigh boot, 黑色项圈, bridal gauntlets, clothing cutout, 可拆卸袖套, earrings, groin, 高跟鞋, highleg leotard, mismatched legwear, 大腿袜, navel piercing, waist cape",
+    "name_zh": "Wedding Dress & 白色手套"
   },
   {
     "id": "1741505233657",
@@ -5489,7 +6233,9 @@
       "thighhighs",
       "latex"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "military beret, dog tags, latex spy catsuit, unbuttoned top, crotch zipper, short skirt, 大腿袜, holding pistol",
+    "name_zh": "Military Beret & Dog Tags"
   },
   {
     "id": "1741505237324",
@@ -5506,6 +6252,8 @@
       "tie",
       "collar"
     ],
-    "folder": "images4"
+    "folder": "images4",
+    "tags_zh": "hair bobbles, collar, lab coat, pasties, taut pants, bikini top, leg belt, thighhighs over pantyhose, goggles",
+    "name_zh": "Hair Bobbles & Collar"
   }
 ]
